@@ -2067,10 +2067,6 @@
 	<channel id="RTP INTERNACIONAL(JMS)">
 		<display-name>RTP INTERNACIONAL(JMS)</display-name>
 	</channel>
-	<programme channel="RTP INTERNACIONAL(JMS)" start="20150722000000 +0100" stop="20150722010000 +0100">
-		<title lang="pt">24 Horas</title>
-		<desc lang="pt">As notícias do dia em 60 minutos. Com apresentação de João Fernando Ramos, de 2ª a 6ª feira, e aos fins-de-semana com Jorge Oliveira da Silva e Sandra Fernandes Pereira.</desc>
-	</programme>
 	<programme channel="RTP INTERNACIONAL(JMS)" start="20150722010000 +0100" stop="20150722012500 +0100">
 		<title lang="pt">In & Out</title>
 		<desc lang="pt">Com apresentação de Teresa Nicolau, 'In & Out' é um programa de cultura e lifestyle , com reportagens e entrevistas sobre os acontecimentos mais marcantes e as novas tendências na gastronomia, hotelaria, hábitos de consumo e de vida.</desc>
@@ -2156,8 +2152,8 @@
 		<desc lang="pt">É o cenário das grandes notícias do dia, dos principais debates, das entrevistas que marcam e do comentário especializado. Porque tudo está a mudar à nossa volta!</desc>
 	</programme>
 	<programme channel="RTP INTERNACIONAL(JMS)" start="20150722223000 +0100" stop="20150722233000 +0100">
-		<title lang="pt">Grande Entrevista: Augusto Santos Silva</title>
-		<desc lang="pt">Esta quarta-feira na Grande Entrevista, Vítor Gonçalves recebe Rui Rio, o ex-presidente da Câmara do Porto.</desc>
+		<title lang="pt">Grande Entrevista: Rui Rio</title>
+		<desc lang="pt">Vítor Gonçalves recebe Rui Rio, o ex-presidente da Câmara do Porto. É um dos nomes mais falados para entrar na corrida a Belém. Estará Rui Rio disponível para ser candidato a Presidente da República? Nesta grande entrevista, conheça as ideias de Rui Rio para o país.</desc>
 	</programme>
 	<programme channel="RTP INTERNACIONAL(JMS)" start="20150722233000 +0100" stop="20150723000000 +0100">
 		<title lang="pt">Notícias</title>
@@ -2176,8 +2172,8 @@
 		<desc lang="pt">A 102ª edição da Volta a França em Bicicleta realiza-se de 4 a 26 de julho. A RTP2 transmite diariamente e em direto as diversas etapas. Esta edição da 'Grande Boucle' conta com sete etapas de montanha e apresenta o menor número de quilómetros desde que a especialidade foi introduzida, em 1947.</desc>
 	</programme>
 	<programme channel="RTP INTERNACIONAL(JMS)" start="20150723043000 +0100" stop="20150723053000 +0100">
-		<title lang="pt">Grande Entrevista: Augusto Santos Silva</title>
-		<desc lang="pt">Augusto Santos Silva é o convidado desta semana de Vítor Gonçalves para a Grande Entrevista. É um dos apoiantes mais entusiastas de António Costa e um dos mais ferozes adversários do governo da coligação. Portugal, o governo, a oposição e o que vai determinar o resultado das próximas eleições.</desc>
+		<title lang="pt">Grande Entrevista: Rui Rio</title>
+		<desc lang="pt">Vítor Gonçalves recebe Rui Rio, o ex-presidente da Câmara do Porto. É um dos nomes mais falados para entrar na corrida a Belém. Estará Rui Rio disponível para ser candidato a Presidente da República? Nesta grande entrevista, conheça as ideias de Rui Rio para o país.</desc>
 	</programme>
 	<programme channel="RTP INTERNACIONAL(JMS)" start="20150723053000 +0100" stop="20150723060000 +0100">
 		<title lang="pt">Ideias que Brilham</title>
@@ -2200,8 +2196,8 @@
 		<desc lang="pt">Intercalar de notícias.</desc>
 	</programme>
 	<programme channel="RTP INTERNACIONAL(JMS)" start="20150723130500 +0100" stop="20150723140000 +0100">
-		<title lang="pt">Grande Entrevista</title>
-		<desc lang="pt">As personalidades mais relevantes do mundo da política, dos negócios, da cultura e do desporto vêm à 'Grande Entrevista' ajudar-nos a compreender o pulsar da atualidade e o rumo dos acontecimentos.</desc>
+		<title lang="pt">Grande Entrevista: Rui Rio</title>
+		<desc lang="pt">Vítor Gonçalves recebe Rui Rio, o ex-presidente da Câmara do Porto. É um dos nomes mais falados para entrar na corrida a Belém. Estará Rui Rio disponível para ser candidato a Presidente da República? Nesta grande entrevista, conheça as ideias de Rui Rio para o país.</desc>
 	</programme>
 	<programme channel="RTP INTERNACIONAL(JMS)" start="20150723140000 +0100" stop="20150723153000 +0100">
 		<title lang="pt">Notícias</title>
@@ -4727,10 +4723,6 @@
 	<channel id="HOLLYWOOD">
 		<display-name>HOLLYWOOD</display-name>
 	</channel>
-	<programme channel="HOLLYWOOD" start="20150721010000 +0100" stop="20150722010000 +0100">
-		<title lang="pt">Sem Programação</title>
-		<desc lang="pt">Sem Programação</desc>
-	</programme>
 	<programme channel="HOLLYWOOD" start="20150722010000 +0100" stop="20150723010000 +0100">
 		<title lang="pt">Sem Programação</title>
 		<desc lang="pt">Sem Programação</desc>
@@ -8648,17 +8640,9 @@
 	<channel id="SPORT TV 1">
 		<display-name>SPORT TV 1</display-name>
 	</channel>
-	<programme channel="SPORT TV 1" start="20150721223000 +0100" stop="20150722003000 +0100">
-		<title lang="pt">Roma x Man. City - Guinness Cup</title>
-		<desc lang="pt">Transmissão do encontro a contar para a Guinness International Champions Cup.</desc>
-	</programme>
-	<programme channel="SPORT TV 1" start="20150722003000 +0100" stop="20150722010000 +0100">
-		<title lang="pt">Estrelas Mundiais - Messi e Giroud</title>
-		<desc lang="pt">Uma oportunidade para ficar a conhecer melhor algumas das principais estrelas do futebol mundial.</desc>
-	</programme>
 	<programme channel="SPORT TV 1" start="20150722010000 +0100" stop="20150722013500 +0100">
 		<title lang="pt">Estrelas Mundiais - Neymar e Ozil</title>
-		<desc lang="pt">Uma oportunidade para ficar a conhecer melhor algumas das principais estrelas do futebol mundial.</desc>
+		<desc lang="pt">Estrelas Mundiais - Neymar e Ozil</desc>
 	</programme>
 	<programme channel="SPORT TV 1" start="20150722013500 +0100" stop="20150722033000 +0100">
 		<title lang="pt">PSG x Fiorentina - Guinness Cup (Direto)</title>
@@ -8785,18 +8769,18 @@
 		<desc lang="pt">Uma oportunidade para ficar a conhecer melhor algumas das principais estrelas do futebol mundial.</desc>
 	</programme>
 	<programme channel="SPORT TV 1" start="20150723094000 +0100" stop="20150723114000 +0100">
-		<title lang="pt">Gold Cup</title>
-		<desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Gold Cup.</desc>
+		<title lang="pt">New York Red Bulls x Chelsea - Guinness Cup</title>
+		<desc lang="pt">Transmissão do encontro a contar para a Guinness International Champions Cup.</desc>
 	</programme>
 	<programme channel="SPORT TV 1" start="20150723114000 +0100" stop="20150723120000 +0100">
 		<title lang="pt">Informação: Notícias</title>
 		<desc lang="pt">Toda a atualidade desportiva.</desc>
 	</programme>
-	<programme channel="SPORT TV 1" start="20150723120000 +0100" stop="20150723123000 +0100">
+	<programme channel="SPORT TV 1" start="20150723120000 +0100" stop="20150723123500 +0100">
 		<title lang="pt">Man. United x San Jose Earthquakes - Guinness Cup (Resumo)</title>
 		<desc lang="pt">Resumo do encontro a contar para a Guinness International Champions Cup.</desc>
 	</programme>
-	<programme channel="SPORT TV 1" start="20150723123000 +0100" stop="20150723143000 +0100">
+	<programme channel="SPORT TV 1" start="20150723123500 +0100" stop="20150723143000 +0100">
 		<title lang="pt">B. Munique x G. Evergrande - Jogo De Preparação (Direto)</title>
 		<desc lang="pt">Transmissão do encontro de caráter particular.</desc>
 	</programme>
@@ -8833,8 +8817,8 @@
 		<desc lang="pt">Liga De Verão</desc>
 	</programme>
 	<programme channel="SPORT TV 1" start="20150723201000 +0100" stop="20150723220000 +0100">
-		<title lang="pt">New York Red Bulls x Chelsea - Guinness Cup</title>
-		<desc lang="pt">Transmissão do encontro a contar para a Guinness International Champions Cup.</desc>
+		<title lang="pt">B. Munique x G. Evergrande - Jogo De Preparação</title>
+		<desc lang="pt">Transmissão do encontro de caráter particular.</desc>
 	</programme>
 	<programme channel="SPORT TV 1" start="20150723220000 +0100" stop="20150723223000 +0100">
 		<title lang="pt">Informação: Últimas Notícias</title>
@@ -20795,13 +20779,9 @@
 	<channel id="TV RECORDE">
 		<display-name>TV RECORDE</display-name>
 	</channel>
-	<programme channel="TV RECORDE" start="20150722000000 +0100" stop="20150722010000 +0100">
-		<title lang="pt">Não Desista</title>
-		<desc lang="pt">Pedro Alvarenga mostra-lhe ao vivo verdadeiros casos de superação e dá-lhe conselhos para que tenha sempre a direção certa.</desc>
-	</programme>
 	<programme channel="TV RECORDE" start="20150722010000 +0100" stop="20150722013000 +0100">
 		<title lang="pt">Por Detrás Dos Factos</title>
-		<desc lang="pt">Um programa que o ajuda a perceber e conhecer o que está por detrás do seu sofrimento.</desc>
+		<desc lang="pt">Por Detrás Dos Factos</desc>
 	</programme>
 	<programme channel="TV RECORDE" start="20150722013000 +0100" stop="20150722020000 +0100">
 		<title lang="pt">Conquistas Financeiras</title>
@@ -22322,13 +22302,9 @@
 	<channel id="RTP1 ADSL">
 		<display-name>RTP1 ADSL</display-name>
 	</channel>
-	<programme channel="RTP1 ADSL" start="20150721235800 +0100" stop="20150722010100 +0100">
-		<title lang="pt">5 Para a Meia-Noite T10 - Ep. 69</title>
-		<desc lang="pt">Verbo: Elogiar. José Pedro Vasconcelos cconvida: Tânia Ribas de Oliveira e Ruben Alves. Em cada noite, um apresentador diferente está aos comandos do '5 Para a Meia-Noite'. De segunda a sexta, este espaço recebe convidados de peso, muita animação, rubricas musicais e momentos completamente inesperados.</desc>
-	</programme>
 	<programme channel="RTP1 ADSL" start="20150722010100 +0100" stop="20150722014900 +0100">
 		<title lang="pt">Os Seguidores T2 - Ep. 4</title>
-		<desc lang="pt">Depois da última revelação chocante do caso, Ryan e Max tentam juntar as peças do quebra-cabeça e ficar dois passos à frente do FBI, apesar dos constantes avisos de Weston para não interferirem. Emma fica cada vez mais próxima de Mark e Luke, enquanto Joe e Mandy se encontram com um seguidor que procura assistência.</desc>
+		<desc lang="pt">Os Seguidores T2</desc>
 	</programme>
 	<programme channel="RTP1 ADSL" start="20150722014900 +0100" stop="20150722023700 +0100">
 		<title lang="pt">Jikulumessu - Ep. 33</title>
@@ -22426,11 +22402,11 @@
 		<title lang="pt">Verão Total (Manhã): Lousada</title>
 		<desc lang="pt">Acompanhe diariamente, o Verão Total. Partimos numa viagem que nos leva à descoberta de terras e festas de norte a sul e ilhas. Boa disposição, muita música e muitas surpresas. Apresentação a cargo de Jorge Gabriel, Sónia Araújo e Tiago Goes Ferreira.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723130000 +0100" stop="20150723141500 +0100">
+	<programme channel="RTP1 ADSL" start="20150723130000 +0100" stop="20150723141900 +0100">
 		<title lang="pt">Jornal da Tarde</title>
 		<desc lang="pt">As notícias que marcam a atualidade nacional e internacional.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723141500 +0100" stop="20150723150000 +0100">
+	<programme channel="RTP1 ADSL" start="20150723141900 +0100" stop="20150723150000 +0100">
 		<title lang="pt">Os Nossos Dias T2 - Ep. 73</title>
 		<desc lang="pt">Os Nossos Dias é uma novela, que espelha a realidade contemporânea portuguesa. Uma história emocionante e humana da busca pela verdade. Alice tinha dois anos quando foi deixada à porta de um orfanato, 'O Berço da Esperança'. Nunca se descobriu a origem daquela menina nem qualquer indício do seu passado.</desc>
 	</programme>
@@ -22438,52 +22414,44 @@
 		<title lang="pt">Verão Total (Tarde): Lousada</title>
 		<desc lang="pt">Acompanhe diariamente, o Verão Total. Partimos numa viagem que nos leva à descoberta de terras e festas de norte a sul e ilhas. Boa disposição, muita música e muitas surpresas. Apresentação a cargo de Jorge Gabriel, Sónia Araújo e Tiago Goes Ferreira.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723180000 +0100" stop="20150723190000 +0100">
+	<programme channel="RTP1 ADSL" start="20150723180000 +0100" stop="20150723190700 +0100">
 		<title lang="pt">Portugal em Direto</title>
 		<desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723190000 +0100" stop="20150723200000 +0100">
+	<programme channel="RTP1 ADSL" start="20150723190700 +0100" stop="20150723200000 +0100">
 		<title lang="pt">O Preço Certo</title>
 		<desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes e divirta-se!</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723200000 +0100" stop="20150723204500 +0100">
+	<programme channel="RTP1 ADSL" start="20150723200000 +0100" stop="20150723205000 +0100">
 		<title lang="pt">Telejornal</title>
 		<desc lang="pt">A síntese noticiosa sobre o que de mais importante se passou durante o dia. Com apresentação de José Rodrigues dos Santos e João Adelino Faria.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723204500 +0100" stop="20150723214000 +0100">
+	<programme channel="RTP1 ADSL" start="20150723205000 +0100" stop="20150723213300 +0100">
 		<title lang="pt">As Palavras E Os Atos</title>
-		<desc lang="pt">Um novo espaço de debate político na RTP1, moderado por Carlos Daniel.</desc>
+		<desc lang="pt">Programa de debate político, com moderação de Carlos Daniel . É um espaço aberto a todas as forças políticas, não apenas às que estão representadas no parlamento mas também a outras que estão a emergir. O painel de convidados é definido semanalmente de acordo com o tema do programa.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723214000 +0100" stop="20150723214500 +0100">
+	<programme channel="RTP1 ADSL" start="20150723213300 +0100" stop="20150723214600 +0100">
 		<title lang="pt">Fatura Da Sorte</title>
 		<desc lang="pt">O concurso que vai premiar os portugueses que pedem faturas com número de contribuinte. Todas as semanas, o sorteio de um automóvel, que tem por finalidade 'valorizar e premiar a cidadania fiscal dos contribuintes no combate à economia paralela e à evasão fiscal'.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723214500 +0100" stop="20150723223000 +0100">
+	<programme channel="RTP1 ADSL" start="20150723214600 +0100" stop="20150723224200 +0100">
 		<title lang="pt">Bem-vindos a Beirais T4 - Ep. 135</title>
 		<desc lang="pt">Diogo instala-se a ver televisão, satisfeito. Clara surge pronta para sair, stressada e atrasada e reclama porque Diogo não arranjou o armário. Acusa-o de adiar sempre todas as tarefas. Ele promete-lhe que quando voltar terá tudo feito e fica contrariado por ter que mudar de planos para o dia.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723223000 +0100" stop="20150723233000 +0100">
+	<programme channel="RTP1 ADSL" start="20150723224200 +0100" stop="20150723234100 +0100">
 		<title lang="pt">Quem Quer Ser Milionário - Alta Pressão</title>
 		<desc lang="pt">Quem Quer Ser Milionário é o rei dos concursos de cultura geral e de conhecimento. Alta Pressão, é uma nova versão, apresentado por José Carlos Malato.</desc>
 	</programme>
-	<programme channel="RTP1 ADSL" start="20150723233000 +0100" stop="20150724001500 +0100">
+	<programme channel="RTP1 ADSL" start="20150723234100 +0100" stop="20150724002800 +0100">
 		<title lang="pt">Agora Escolha</title>
-		<desc lang="pt">Marta Leite Castro é o rosto de 'Agora Escolha', um formato de sucesso dos anos 80 de regresso à RTP, agora com um nova vertente ficcional. Trata-se de um programa onde os telespetadores, através do site da RTP, escolhem entre dois conteúdos.</desc>
+		<desc lang="pt">Hoje: Bloco A: Notas para Si - Sérgio Godinho. Bloco B: A Minha Sogra é uma Bruxa. Marta Leite Castro é o rosto de 'Agora Escolha', um formato de sucesso dos anos 80 de regresso à RTP, agora com um nova vertente ficcional. Trata-se de um programa onde os telespetadores, através do site da RTP, escolhem entre dois conteúdos.</desc>
 	</programme>
 	<channel id="RTP2 ADSL">
 		<display-name>RTP2 ADSL</display-name>
 	</channel>
-	<programme channel="RTP2 ADSL" start="20150721233700 +0100" stop="20150722003100 +0100">
-		<title lang="pt">Graças a Deus!</title>
-		<desc lang="pt">O documentário 'Graças a Deus' retrata os novos movimentos de fé evangélica que chegam a Portugal pelas mãos dos imigrantes brasileiros e que ajudam à sua integração na sociedade.</desc>
-	</programme>
-	<programme channel="RTP2 ADSL" start="20150722003100 +0100" stop="20150722010400 +0100">
-		<title lang="pt">Elogio da Paixão - Ep. 3</title>
-		<desc lang="pt">Gabriela Moita conversa com a professora Cristina Rocha e o arquiteto José Pulido Valente sobre Paixão e Erotismo.</desc>
-	</programme>
 	<programme channel="RTP2 ADSL" start="20150722010400 +0100" stop="20150722023500 +0100">
 		<title lang="pt">Sociedade Civil T10 - Ep. 23</title>
-		<desc lang="pt">Hoje: Esclerose Lateral Amiotrófica. Como vivem e que desafios enfrentam os doentes com ELA? A ELA é uma doença neuro-degenerativa caracterizada pela destruição dos neurónios responsáveis pelo movimento.</desc>
+		<desc lang="pt">Sociedade Civil T10</desc>
 	</programme>
 	<programme channel="RTP2 ADSL" start="20150722023500 +0100" stop="20150722063200 +0100">
 		<title lang="pt">Euronews</title>
@@ -22557,60 +22525,52 @@
 		<title lang="pt">Repórter África</title>
 		<desc lang="pt">Política, sociedade, cultura, desporto, informação que conta com o contributo das redações da RTP em Angola, Cabo Verde, Guiné-Bissau, Moçambique, S. Tomé e Príncipe e da redação em Lisboa.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723070000 +0100" stop="20150723110000 +0100">
+	<programme channel="RTP2 ADSL" start="20150723070000 +0100" stop="20150723110300 +0100">
 		<title lang="pt">Zig Zag</title>
 		<desc lang="pt">Um mundo de séries de aventura e animação para os mais pequenos. Os desenhos animados mais divertidos e também os heróis de sempre para brincar e jogar com as crianças.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723110000 +0100" stop="20150723131000 +0100">
+	<programme channel="RTP2 ADSL" start="20150723110300 +0100" stop="20150723131000 +0100">
 		<title lang="pt">Euronews</title>
 		<desc lang="pt">No Euronews, saiba tudo o que se passa na Europa e no mundo.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723131000 +0100" stop="20150723163500 +0100">
+	<programme channel="RTP2 ADSL" start="20150723131000 +0100" stop="20150723163800 +0100">
 		<title lang="pt">Ciclismo: Volta a França - Etapa 18</title>
 		<desc lang="pt">Hoje: Gap - Saint Jean de Maurienne em Montanha. A 102a edição da Volta a França em Bicicleta realiza-se de 4 a 26 de julho. A RTP2 transmite diariamente e em direto as diversas etapas. A montanha deverá ter papel decisivo na definição do vencedor da Volta a França em bicicleta de 2015.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723163500 +0100" stop="20150723170000 +0100">
+	<programme channel="RTP2 ADSL" start="20150723163800 +0100" stop="20150723171200 +0100">
 		<title lang="pt">A Fé dos Homens</title>
 		<desc lang="pt">Hoje: Igreja Católica Romana e Comunidade Islâmica de Lisboa. Um espaço dedicado às diferentes religiões reconhecidas em Portugal e instituídas através de uma igreja própria.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723170000 +0100" stop="20150723203000 +0100">
+	<programme channel="RTP2 ADSL" start="20150723171200 +0100" stop="20150723203900 +0100">
 		<title lang="pt">Zig Zag</title>
 		<desc lang="pt">Um mundo de séries de aventura e animação para os mais pequenos. Os desenhos animados mais divertidos e também os heróis de sempre para brincar e jogar com as crianças.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723203000 +0100" stop="20150723210000 +0100">
+	<programme channel="RTP2 ADSL" start="20150723203900 +0100" stop="20150723210000 +0100">
 		<title lang="pt">A Teoria do Big Bang T8 - Ep. 9</title>
 		<desc lang="pt">The Septum Deviation - Leonard vai ser operado e Sheldon fica preocupado. Por outro lado, Raj está preocupado com os pais porque estão a enfrentar um processo de divórcio.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723210000 +0100" stop="20150723214500 +0100">
+	<programme channel="RTP2 ADSL" start="20150723210000 +0100" stop="20150723214700 +0100">
 		<title lang="pt">Jornal 2</title>
 		<desc lang="pt">As notícias que marcam a atualidade do dia.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723214500 +0100" stop="20150723221500 +0100">
+	<programme channel="RTP2 ADSL" start="20150723214700 +0100" stop="20150723221800 +0100">
 		<title lang="pt">Mares e Oceanos T1 - Ep. 4</title>
 		<desc lang="pt">Uma viagem pelos mares e oceanos do mundo que nos permitirá descobrir a essência destes incríveis fundos marinhos e sua relação com a humanidade. Esta magnífica viagem vai começar nos mares Vermelho e Mediterrâneo, o berço da Humanidade.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723221500 +0100" stop="20150723230000 +0100">
+	<programme channel="RTP2 ADSL" start="20150723221800 +0100" stop="20150723230500 +0100">
 		<title lang="pt">Coração das Trevas - Ep. 4</title>
 		<desc lang="pt">Sebastian e Sofie são dois irmãos adolescentes que têm um misterioso e fatal segredo: para permanecerem vivos são forçados a alimentarem-se da energia vital das pessoas que os rodeiam, tal como os vampiros se alimentam de sangue humano.</desc>
 	</programme>
-	<programme channel="RTP2 ADSL" start="20150723230000 +0100" stop="20150724003000 +0100">
+	<programme channel="RTP2 ADSL" start="20150723230500 +0100" stop="20150724003800 +0100">
 		<title lang="pt">Sonhos de Dança - Nos Passos de Pina Busch</title>
 		<desc lang="pt">Em 2008, Pina Bausch escolheu 40 adolescentes que nunca tinham ouvido falar nela e convidou-os a dançar 'Kontakthof'. Em dez meses, os jovens descobrem o génio de Bausch e os seus corpos. Pina Bausch morre em 2009 e este filme é um testemunho da sua obra revolucionária.</desc>
 	</programme>
 	<channel id="SIC ADSL">
 		<display-name>SIC ADSL</display-name>
 	</channel>
-	<programme channel="SIC ADSL" start="20150721233000 +0100" stop="20150722004000 +0100">
-		<title lang="pt">Império - Ep. 197</title>
-		<desc lang="pt">Cristina dança com Vicente. Maria Marta encontra-se com Téo. Maria Clara vê Cristina e Vicente, que quase se beijam.</desc>
-	</programme>
-	<programme channel="SIC ADSL" start="20150722004000 +0100" stop="20150722012000 +0100">
-		<title lang="pt">Inesquecível T2 - Ep. 5</title>
-		<desc lang="pt">A investigação sobre o homicídio de um informador do governo, num caso de terrorismo islâmico, leva Carrie e Al a um veterano do Exército Americano que sofre de stress pós-traumático.</desc>
-	</programme>
 	<programme channel="SIC ADSL" start="20150722012000 +0100" stop="20150722023500 +0100">
 		<title lang="pt">C.S.I. T12 - Ep. 22</title>
-		<desc lang="pt">O CSI investiga o caso de três cadáveres encontrados perto do local onde se organiza um jantar de campanha de Creen e descobrem algo arrepiante.</desc>
+		<desc lang="pt">C.S.I. T12</desc>
 	</programme>
 	<programme channel="SIC ADSL" start="20150722023500 +0100" stop="20150722032500 +0100">
 		<title lang="pt">Podia Acabar O Mundo - Ep. 14</title>
@@ -22684,39 +22644,39 @@
 		<title lang="pt">Podia Acabar O Mundo - Ep. 15</title>
 		<desc lang="pt">Esta é a história da disputa entre Vera e Rodrigo pelo seu filho, João, de onze anos. Vera é uma mulher urbana. Rodrigo adora o campo e o mundo dos touros. Vera não se adapta à vida rural, e Rodrigo, à vida da cidade.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723032500 +0100" stop="20150723060000 +0100">
+	<programme channel="SIC ADSL" start="20150723032500 +0100" stop="20150723061500 +0100">
 		<title lang="pt">Televendas</title>
 		<desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723060000 +0100" stop="20150723070000 +0100">
+	<programme channel="SIC ADSL" start="20150723061500 +0100" stop="20150723070000 +0100">
 		<title lang="pt">Violetta T1 - Ep. 19</title>
 		<desc lang="pt">Uma adolescente musicalmente talentosa, regressa à sua terra natal, Buenos Aires, depois de viver na Europa.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723070000 +0100" stop="20150723084500 +0100">
+	<programme channel="SIC ADSL" start="20150723070000 +0100" stop="20150723083000 +0100">
 		<title lang="pt">Edição Da Manhã</title>
 		<desc lang="pt">Na Edição da Manhã, às notícias somam-se as primeiras páginas dos jornais, o trânsito em Lisboa e no Porto, a meteorologia, os mercados bolsistas e o Jornal de Economia.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723084500 +0100" stop="20150723100000 +0100">
+	<programme channel="SIC ADSL" start="20150723083000 +0100" stop="20150723101500 +0100">
 		<title lang="pt">A Vida Nas Cartas: O Dilema T3 - Ep. 287</title>
 		<desc lang="pt">A Vida nas Cartas - O Dilema é um programa em direto, apresentado por Maria Helena Martins, que satisfaz o interesse dos espetadores, relativamente ao que o futuro lhes reserva, naquelas que são as quatro áreas que despertam maior curiosidade: Saúde, Amor, Dinheiro e Família.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723100000 +0100" stop="20150723130000 +0100">
+	<programme channel="SIC ADSL" start="20150723101500 +0100" stop="20150723130000 +0100">
 		<title lang="pt">Queridas Manhãs T1 - Ep. 337</title>
 		<desc lang="pt">Júlia Pinheiro e João Paulo Rodrigues são a dupla que anima o 'Queridas Manhãs'. Um espaço de entretenimento com histórias de vida, convidados, rúbricas e muitas outras surpresas diárias.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723130000 +0100" stop="20150723143000 +0100">
+	<programme channel="SIC ADSL" start="20150723130000 +0100" stop="20150723144500 +0100">
 		<title lang="pt">Primeiro Jornal</title>
 		<desc lang="pt">Toda a atualidade sobre as principais notícias do dia.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723143000 +0100" stop="20150723153000 +0100">
+	<programme channel="SIC ADSL" start="20150723144500 +0100" stop="20150723154500 +0100">
 		<title lang="pt">Duas Caras - Ep. 172</title>
 		<desc lang="pt">Gabriel, depois de uma perseguição, encurrala o ladrão, que é entregue aos guarda-costas de Juvenal. Juvenal dá dinheiro ao falso ladrão. Sílvia nega que tenha caído de propósito.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723153000 +0100" stop="20150723183000 +0100">
+	<programme channel="SIC ADSL" start="20150723154500 +0100" stop="20150723184000 +0100">
 		<title lang="pt">Grande Tarde T2 - Ep. 139</title>
 		<desc lang="pt">José Figueiras, Andreia Rodrigues e Luciana Abreu vão mudar as nossas tardes. Com eles tudo pode acontecer! Surpresas, reencontros, abraços... todos os dias um programa especial.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723183000 +0100" stop="20150723190000 +0100">
+	<programme channel="SIC ADSL" start="20150723184000 +0100" stop="20150723190000 +0100">
 		<title lang="pt">Babilónia - Ep. 67</title>
 		<desc lang="pt">Murilo e Anete planeiam algo contra Vinícius. Beatriz diz a Pedro que terá de viajar para a Suíça. Inês tem um pesadelo com Beatriz. Beatriz vai visitar Inês ao hospital.</desc>
 	</programme>
@@ -22724,32 +22684,28 @@
 		<title lang="pt">Alto Astral - Ep. 140</title>
 		<desc lang="pt">Laura recusa-se a dormir com Marcos. Caíque pede a Escobar que descubra o hotel onde Marcos está com Laura. Marcos obriga Laura a fazer as malas para deixarem o hotel.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723200000 +0100" stop="20150723214500 +0100">
+	<programme channel="SIC ADSL" start="20150723200000 +0100" stop="20150723213500 +0100">
 		<title lang="pt">Jornal Da Noite</title>
 		<desc lang="pt">Toda a atualidade sobre as principais notícias do dia. Inclui 'Grande Reportagem SIC': 'Os Tratadores'. Mais de 10 mil anos de domesticação levaram o Homem a explorar a relação com os animais em novas áreas: a educação e a saúde.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723214500 +0100" stop="20150723224500 +0100">
+	<programme channel="SIC ADSL" start="20150723213500 +0100" stop="20150723222000 +0100">
 		<title lang="pt">Mar Salgado - Ep. 268</title>
 		<desc lang="pt">Beatriz é operada de urgência e quando faz o primeiro exame neurológico depois da cirurgia, percebe que não sente as pernas e que corre o risco de não voltar a andar, ficando desesperada. André segura-lhe as mãos beijando-as comovido, ao mesmo tempo que garante que ela irá recuperar.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723224500 +0100" stop="20150723234500 +0100">
+	<programme channel="SIC ADSL" start="20150723222000 +0100" stop="20150723233000 +0100">
 		<title lang="pt">Poderosas - Ep. 49</title>
 		<desc lang="pt">Dinis e Luísa fazem as pazes e decidem ir viver juntos. Amélia obriga o Dr. Ribeiro a simular que José Maria tem uma doença grave. Este fica em pânico com a notícia.</desc>
 	</programme>
-	<programme channel="SIC ADSL" start="20150723234500 +0100" stop="20150724003000 +0100">
+	<programme channel="SIC ADSL" start="20150723233000 +0100" stop="20150724004000 +0100">
 		<title lang="pt">Império - Ep. 199</title>
 		<desc lang="pt">Maurílio vê Maria Marta entrando na casa de Cláudio. Cláudio apresenta Maria Ísis aos dois casais. Magnólia e Severo aparecem na sala de Cláudio e Beatriz. Téo Pereira chega à casa de Cláudio.</desc>
 	</programme>
 	<channel id="TVI ADSL">
 		<display-name>TVI ADSL</display-name>
 	</channel>
-	<programme channel="TVI ADSL" start="20150721233800 +0100" stop="20150722010000 +0100">
-		<title lang="pt">Fascínios - Ep. 59</title>
-		<desc lang="pt">Em 1961, com a invasão de Goa pelas tropas da União Indiana, Óscar foi obrigado a fugir para Portugal. Tornou-se milionário, dono da conceituada loja 'Imperium', mas o seu dinheiro atraiu gente maquiavélica, levando ao seu assassinato. E, mesmo depois da sua morte, a questão da herança continua a alimentar os mais calculistas.</desc>
-	</programme>
 	<programme channel="TVI ADSL" start="20150722010000 +0100" stop="20150722020000 +0100">
 		<title lang="pt">Ora Acerta</title>
-		<desc lang="pt">É o concurso ideal para quem está acordado durante a noite. Ao longo do programa, serão propostos vários desafios, jogos incríveis e dinâmicos, que irão ser resolvidos, em direto e de forma interativa, com a ajuda dos participantes, que podem habilitar-se inscrevendo-se telefonicamente.</desc>
+		<desc lang="pt">Ora Acerta</desc>
 	</programme>
 	<programme channel="TVI ADSL" start="20150722020000 +0100" stop="20150722040900 +0100">
 		<title lang="pt">A Melhor Despedida de Solteira</title>
@@ -22831,49 +22787,45 @@
 		<title lang="pt">Você na TV!</title>
 		<desc lang="pt">O Você na TV! Com Cristina Ferreira e Manuel Luís Goucha é um espaço que privilegia a conversa e a cumplicidade com os telespetadores e o público presente em estúdio. Jogos, passatempos, eventos e momentos de reportagem de vários pontos do país.</desc>
 	</programme>
-	<programme channel="TVI ADSL" start="20150723130000 +0100" stop="20150723144000 +0100">
+	<programme channel="TVI ADSL" start="20150723130000 +0100" stop="20150723144500 +0100">
 		<title lang="pt">Jornal da Uma</title>
 		<desc lang="pt">A primeira síntese de informação do dia.</desc>
 	</programme>
-	<programme channel="TVI ADSL" start="20150723144000 +0100" stop="20150723160000 +0100">
+	<programme channel="TVI ADSL" start="20150723144500 +0100" stop="20150723160000 +0100">
 		<title lang="pt">Feitiço de Amor - Ep. 248</title>
 		<desc lang="pt">Casada com Afonso, Alice apaixona-se por Henrique. Quem irá Alice escolher? Será fiel ao marido e suportará os seus ciúmes doentios ou pelo contrário agarrar-se-á ao seu grande amor? Seja qual for, a sua escolha terá consequências para todos.</desc>
 	</programme>
-	<programme channel="TVI ADSL" start="20150723160000 +0100" stop="20150723190000 +0100">
+	<programme channel="TVI ADSL" start="20150723160000 +0100" stop="20150723182500 +0100">
 		<title lang="pt">A Tarde é Sua</title>
 		<desc lang="pt">Fátima Lopes faz-lhe companhia todas as tardes, com um programa muito especial onde a boa disposição da apresentadora nunca irá faltar. Os temas centram-se em todas as áreas da sociedade: a saúde, a família, as finanças, os afetos, os famosos, a moda e as grandes polémicas da atualidade.</desc>
 	</programme>
-	<programme channel="TVI ADSL" start="20150723190000 +0100" stop="20150723200000 +0100">
+	<programme channel="TVI ADSL" start="20150723182500 +0100" stop="20150723191300 +0100">
+		<title lang="pt">Toda a Gente me Diz Isso</title>
+		<desc lang="pt">Portugueses famosos desempenham tarefas como ser caixa do supermercado, trabalhar no forno da pizzaria, na bomba de gasolina, no café a servir uma bica e um croissant, etc... As câmaras estão lá, escondidas, e são usadas para registar as reações dos clientes intrigados com aquela cara que lhes é familiar.</desc>
+	</programme>
+	<programme channel="TVI ADSL" start="20150723191300 +0100" stop="20150723200000 +0100">
 		<title lang="pt">The Money Drop - Ep. 75</title>
 		<desc lang="pt">Um concurso onde os concorrentes recebem a totalidade do prémio no início do programa e têm de responder, acertadamente, a oito perguntas para não verem o seu dinheiro ser engolido por alçapões. Apresentação a cargo de Teresa Guilherme.</desc>
 	</programme>
-	<programme channel="TVI ADSL" start="20150723200000 +0100" stop="20150723214500 +0100">
+	<programme channel="TVI ADSL" start="20150723200000 +0100" stop="20150723213300 +0100">
 		<title lang="pt">Jornal das 8</title>
 		<desc lang="pt">As notícias que marcam a atualidade do dia.</desc>
 	</programme>
-	<programme channel="TVI ADSL" start="20150723214500 +0100" stop="20150723224500 +0100">
+	<programme channel="TVI ADSL" start="20150723213300 +0100" stop="20150723223500 +0100">
 		<title lang="pt">A Única Mulher - Ep. 116</title>
 		<desc lang="pt">Laura explica a Francisca que João Maria testemunhou que os dois tinham bebido nessa noite e que ela o provocou. Ela garante que é tudo mentira e fica arrependida de não ter dito logo a verdade. Francisca desaba a chorar e a inspetora não sabe o que dizer.</desc>
 	</programme>
-	<programme channel="TVI ADSL" start="20150723224500 +0100" stop="20150723234500 +0100">
+	<programme channel="TVI ADSL" start="20150723223500 +0100" stop="20150723233800 +0100">
 		<title lang="pt">Jardins Proibidos - Ep. 247</title>
 		<desc lang="pt">Bárbara fica satisfeita por Eduardo lhe pedir que não se afaste dela por precisar de um tempo para clarear as ideias não querendo que as coisas acabem assim. Jú conforta Leonor que se lastima que, para além de todos os problemas familiares, apanhou Carlos a beijar a colega de trabalho, admitindo ter culpa por o ter afastado da sua vida.</desc>
 	</programme>
-	<programme channel="TVI ADSL" start="20150723234500 +0100" stop="20150724004500 +0100">
+	<programme channel="TVI ADSL" start="20150723233800 +0100" stop="20150724010000 +0100">
 		<title lang="pt">Fascínios - Ep. 61</title>
 		<desc lang="pt">Em 1961, com a invasão de Goa pelas tropas da União Indiana, Óscar foi obrigado a fugir para Portugal. Tornou-se milionário, dono da conceituada loja 'Imperium', mas o seu dinheiro atraiu gente maquiavélica, levando ao seu assassinato. E, mesmo depois da sua morte, a questão da herança continua a alimentar os mais calculistas.</desc>
 	</programme>
 	<channel id="TVI FICCAO ADSL">
 		<display-name>TVI FICCAO ADSL</display-name>
 	</channel>
-	<programme channel="TVI FICCAO ADSL" start="20150721232900 +0100" stop="20150722002500 +0100">
-		<title lang="pt">O Inspetor Max</title>
-		<desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes.</desc>
-	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150722002500 +0100" stop="20150722012100 +0100">
-		<title lang="pt">Tu e Eu - Ep. 155</title>
-		<desc lang="pt">Tu e Eu, é a história de duas irmãs, Céu e Daniela, que apenas têm em comum a sua enorme beleza física. Uma novela povoada de drama, intriga, sensualidade, e ambição. Mas cabem, com um relevo muito especial, a ternura e a esperança, com personagens positivos que acreditam na vida.</desc>
-	</programme>
 	<programme channel="TVI FICCAO ADSL" start="20150722012100 +0100" stop="20150722031700 +0100">
 		<title lang="pt">Ninguém Como Tu - Ep. 191</title>
 		<desc lang="pt">'Ninguém Como Tu' revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana.</desc>
@@ -22986,35 +22938,35 @@
 		<title lang="pt">A Outra - Ep. 51</title>
 		<desc lang="pt">Beatriz Lobato Pimentel Gama morre em África, numa situação muito confusa e polémica. O marido, Rafael, estava com a sua amante, Catarina Alves e com ela mantinha um romance há muito tempo. Terá sido Catarina conivente na morte de Beatriz?</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723043000 +0100" stop="20150723063100 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723043000 +0100" stop="20150723063000 +0100">
 		<title lang="pt">TV Shop</title>
 		<desc lang="pt">Espaço de Televendas</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723063100 +0100" stop="20150723072300 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723063000 +0100" stop="20150723072400 +0100">
 		<title lang="pt">Tu e Eu - Ep. 156</title>
 		<desc lang="pt">Tu e Eu, é a história de duas irmãs, Céu e Daniela, que apenas têm em comum a sua enorme beleza física. Uma novela povoada de drama, intriga, sensualidade, e ambição. Mas cabem, com um relevo muito especial, a ternura e a esperança, com personagens positivos que acreditam na vida.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723072300 +0100" stop="20150723090400 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723072400 +0100" stop="20150723090700 +0100">
 		<title lang="pt">Ninguém Como Tu - Ep. 192</title>
 		<desc lang="pt">'Ninguém Como Tu' revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723090400 +0100" stop="20150723095500 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723090700 +0100" stop="20150723095800 +0100">
 		<title lang="pt">A Outra - Ep. 51</title>
 		<desc lang="pt">Beatriz Lobato Pimentel Gama morre em África, numa situação muito confusa e polémica. O marido, Rafael, estava com a sua amante, Catarina Alves e com ela mantinha um romance há muito tempo. Terá sido Catarina conivente na morte de Beatriz?</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723095500 +0100" stop="20150723104800 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723095800 +0100" stop="20150723105000 +0100">
 		<title lang="pt">Tempo de Viver - Ep. 10</title>
 		<desc lang="pt">A história começa no dia 10 de Setembro de 2001, nas torres gémeas em Nova Iorque, véspera dos atentados do 11 de Setembro que aterrorizaram o mundo, e desenrola-se em Portugal, cinco anos depois. A trama acontece à volta dos Martins de Mello e de Fátima Almeida, a sua filha Maria Laurinda e os primos destas.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723104800 +0100" stop="20150723113800 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723105000 +0100" stop="20150723114000 +0100">
 		<title lang="pt">Dei-te Quase Tudo - Ep. 71</title>
 		<desc lang="pt">Quando Joana Capelo se apaixona por Rodrigo Monteiro na Universidade de Aveiro, não é apenas a magia do amor à primeira vista que ambos os jovens libertam. Colada à paixão dos dois surge a sombra inquietante do passado, que ameaça transformar a vida de Joana e de Rodrigo num pesadelo. Um passado de trinta anos de tensões e de ódio acumulados.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723113800 +0100" stop="20150723123200 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723114000 +0100" stop="20150723123700 +0100">
 		<title lang="pt">Remédio Santo - Ep. 132</title>
 		<desc lang="pt">Amor, romance, humor, fantasia, ódios, traições e invejas, santos e demónios, misturam-se num ambiente místico e quase mágico, em que cada um procura um remédio santo para todos os seus males. Basta apenas descobri-lo.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723123200 +0100" stop="20150723133100 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723123700 +0100" stop="20150723133100 +0100">
 		<title lang="pt">O Inspetor Max</title>
 		<desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes.</desc>
 	</programme>
@@ -23030,23 +22982,23 @@
 		<title lang="pt">Tu e Eu - Ep. 157</title>
 		<desc lang="pt">Tu e Eu, é a história de duas irmãs, Céu e Daniela, que apenas têm em comum a sua enorme beleza física. Uma novela povoada de drama, intriga, sensualidade, e ambição. Mas cabem, com um relevo muito especial, a ternura e a esperança, com personagens positivos que acreditam na vida.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723155300 +0100" stop="20150723173600 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723155300 +0100" stop="20150723173500 +0100">
 		<title lang="pt">Ninguém Como Tu - Ep. 193</title>
 		<desc lang="pt">'Ninguém Como Tu' revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723173600 +0100" stop="20150723182600 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723173500 +0100" stop="20150723182800 +0100">
 		<title lang="pt">A Outra - Ep. 52</title>
 		<desc lang="pt">Beatriz Lobato Pimentel Gama morre em África, numa situação muito confusa e polémica. O marido, Rafael, estava com a sua amante, Catarina Alves e com ela mantinha um romance há muito tempo. Terá sido Catarina conivente na morte de Beatriz?</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723182600 +0100" stop="20150723191900 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723182800 +0100" stop="20150723191900 +0100">
 		<title lang="pt">Tempo de Viver - Ep. 11</title>
 		<desc lang="pt">A história começa no dia 10 de Setembro de 2001, nas torres gémeas em Nova Iorque, véspera dos atentados do 11 de Setembro que aterrorizaram o mundo, e desenrola-se em Portugal, cinco anos depois. A trama acontece à volta dos Martins de Mello e de Fátima Almeida, a sua filha Maria Laurinda e os primos destas.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723191900 +0100" stop="20150723201100 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723191900 +0100" stop="20150723200900 +0100">
 		<title lang="pt">Dei-te Quase Tudo - Ep. 72</title>
 		<desc lang="pt">Quando Joana Capelo se apaixona por Rodrigo Monteiro na Universidade de Aveiro, não é apenas a magia do amor à primeira vista que ambos os jovens libertam. Colada à paixão dos dois surge a sombra inquietante do passado, que ameaça transformar a vida de Joana e de Rodrigo num pesadelo. Um passado de trinta anos de tensões e de ódio acumulados.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723201100 +0100" stop="20150723210500 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723200900 +0100" stop="20150723210500 +0100">
 		<title lang="pt">Remédio Santo - Ep. 133</title>
 		<desc lang="pt">Amor, romance, humor, fantasia, ódios, traições e invejas, santos e demónios, misturam-se num ambiente místico e quase mágico, em que cada um procura um remédio santo para todos os seus males. Basta apenas descobri-lo.</desc>
 	</programme>
@@ -23054,36 +23006,24 @@
 		<title lang="pt">Câmara Exclusiva</title>
 		<desc lang="pt">Neste magazine, faz-se a cobertura nacional e internacional de tudo o que envolve o mundo da televisão, do cinema e do espetáculo, com um olhar particular sobre a ficção nacional e os atores da TVI, dando a conhecer um lado que não está normalmente acessível aos espectadores.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723213000 +0100" stop="20150723220000 +0100">
-		<title lang="pt">Vasquinho e Cª</title>
-		<desc lang="pt">Divirta-se com as aventuras e desventuras de Vasquinho e Companhia.</desc>
+	<programme channel="TVI FICCAO ADSL" start="20150723213000 +0100" stop="20150723222500 +0100">
+		<title lang="pt">O Prédio do Vasco</title>
+		<desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723220000 +0100" stop="20150723223000 +0100">
-		<title lang="pt">Vasquinho e Cª</title>
-		<desc lang="pt">Divirta-se com as aventuras e desventuras de Vasquinho e Companhia.</desc>
-	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723223000 +0100" stop="20150723233100 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723222500 +0100" stop="20150723232900 +0100">
 		<title lang="pt">Os Batanetes</title>
 		<desc lang="pt">Vários momentos de humor, compostos por sketches hilariantes, são sinónimo de muitas gargalhadas na companhia dos 'Batanetes'.</desc>
 	</programme>
-	<programme channel="TVI FICCAO ADSL" start="20150723233100 +0100" stop="20150724002000 +0100">
+	<programme channel="TVI FICCAO ADSL" start="20150723232900 +0100" stop="20150724002200 +0100">
 		<title lang="pt">O Inspetor Max</title>
 		<desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes.</desc>
 	</programme>
 	<channel id="AXN HD ADSL">
 		<display-name>AXN HD ADSL</display-name>
 	</channel>
-	<programme channel="AXN HD ADSL" start="20150721234300 +0100" stop="20150722002500 +0100">
-		<title lang="pt">Mentes Criminosas T6 - Ep. 15</title>
-		<desc lang="pt">O UAC é chamado a Nova Iorque para resolver uns misteriosos desaparecimentos. Prentiss descobre algo muito perturbador sobre os seus colegas da Interpol</desc>
-	</programme>
-	<programme channel="AXN HD ADSL" start="20150722002500 +0100" stop="20150722011400 +0100">
-		<title lang="pt">Mentes Criminosas T6 - Ep. 16</title>
-		<desc lang="pt">Prentiss pede a dois amigos da Interpol para encontrarem um velho inimigo. Reid descobre algumas pistas que podem ajudar o BAU a encontrar os pais desaparecidos de um rapaz autista, em Lafayette Parish, Louisiana.</desc>
-	</programme>
 	<programme channel="AXN HD ADSL" start="20150722011400 +0100" stop="20150722020100 +0100">
 		<title lang="pt">Mentes Criminosas T6 - Ep. 12</title>
-		<desc lang="pt">A equipa do UAC viaja a Miami para investigar uma série de assassinatos de cariz ritual. Reid sofre de alucinações e enxaquecas.</desc>
+		<desc lang="pt">Mentes Criminosas T6</desc>
 	</programme>
 	<programme channel="AXN HD ADSL" start="20150722020100 +0100" stop="20150722024700 +0100">
 		<title lang="pt">Mentes Criminosas T6 - Ep. 13</title>
@@ -23241,89 +23181,85 @@
 		<title lang="pt">Mentes Criminosas T9 - Ep. 7</title>
 		<desc lang="pt">Uma série de assassinatos em Boston põe a UAC à procura de um elo de ligação entre as vítimas e um suspeito que gosta de guardar recordações.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723090700 +0100" stop="20150723095200 +0100">
+	<programme channel="AXN HD ADSL" start="20150723090700 +0100" stop="20150723094900 +0100">
 		<title lang="pt">Mentes Criminosas T9 - Ep. 8</title>
 		<desc lang="pt">A UAC investiga adolescentes suspeitos de homicídios em massa, que ocorrem em Chicago.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723095200 +0100" stop="20150723103100 +0100">
+	<programme channel="AXN HD ADSL" start="20150723094900 +0100" stop="20150723103500 +0100">
 		<title lang="pt">Castle T5 - Ep. 18</title>
 		<desc lang="pt">O corpo de um homem é encontrado numa batedeira industrial. Castle e Beckett seguem uma pista que os leva a um gangue irlandês e um bar, cuja dona, Siobhan O'Doul, é uma mulher bastante atraente. Para surpresa de todos O detetive Ryan, tem um passado comum com essa mulher e pode ser uma ajuda preciosa.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723103100 +0100" stop="20150723111700 +0100">
+	<programme channel="AXN HD ADSL" start="20150723103500 +0100" stop="20150723112100 +0100">
 		<title lang="pt">Investigação Criminal T7 - Ep. 5</title>
 		<desc lang="pt">Um marine, conhecido por gostar de pregar partidas, é encontrado morto durante o Halloween e a equipa do NCIS desconfia que a sua predileção possa ter sido o motivo da sua morte.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723111700 +0100" stop="20150723120300 +0100">
+	<programme channel="AXN HD ADSL" start="20150723112100 +0100" stop="20150723120800 +0100">
 		<title lang="pt">Investigação Criminal T7 - Ep. 6</title>
 		<desc lang="pt">Os corpos de dois soldados são encontrados no barco de Gibbs. Este tem de investigar o possível envolvimento do seu mentor, Mike Franks, no caso.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723120300 +0100" stop="20150723125000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723120800 +0100" stop="20150723125300 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 12</title>
 		<desc lang="pt">Um homicídio ocorrido há alguns meses pode ser a chave para Lisbon importunar Volker.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723125000 +0100" stop="20150723133700 +0100">
+	<programme channel="AXN HD ADSL" start="20150723125300 +0100" stop="20150723133900 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 13</title>
 		<desc lang="pt">Um caso com 25 anos envolve Red John e Visualize.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723133700 +0100" stop="20150723142400 +0100">
+	<programme channel="AXN HD ADSL" start="20150723133900 +0100" stop="20150723142500 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 14</title>
 		<desc lang="pt">A equipa investiga o cruel mundo académico.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723142400 +0100" stop="20150723151200 +0100">
+	<programme channel="AXN HD ADSL" start="20150723142500 +0100" stop="20150723151300 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 15</title>
 		<desc lang="pt">A equipa investiga o homicídio de uma mulher idosa, herdeira de uma fortuna.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723151200 +0100" stop="20150723160000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723151300 +0100" stop="20150723160000 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 16</title>
 		<desc lang="pt">Lorelei Martins volta para descobrir a verdade sobre Red John.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723160000 +0100" stop="20150723165000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723160000 +0100" stop="20150723165400 +0100">
 		<title lang="pt">Mentes Criminosas T9 - Ep. 9</title>
 		<desc lang="pt">Quando se desenterram esqueletos no quintal de uma casa na Virginia, a equipa descobre uma rede de segredos de família.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723165000 +0100" stop="20150723174000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723165400 +0100" stop="20150723174700 +0100">
 		<title lang="pt">Mentes Criminosas T9 - Ep. 10</title>
 		<desc lang="pt">O desaparecimento de uma criança em St. Louis faz com que o BAU procure pistas num caso antigo, bastante semelhante.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723174000 +0100" stop="20150723183000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723174700 +0100" stop="20150723183900 +0100">
 		<title lang="pt">Investigação Criminal T7 - Ep. 5</title>
 		<desc lang="pt">Um marine, conhecido por gostar de pregar partidas, é encontrado morto durante o Halloween e a equipa do NCIS desconfia que a sua predileção possa ter sido o motivo da sua morte.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723183000 +0100" stop="20150723192000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723183900 +0100" stop="20150723193100 +0100">
 		<title lang="pt">Investigação Criminal T7 - Ep. 6</title>
 		<desc lang="pt">Os corpos de dois soldados são encontrados no barco de Gibbs. Este tem de investigar o possível envolvimento do seu mentor, Mike Franks, no caso.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723192000 +0100" stop="20150723201000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723193100 +0100" stop="20150723202000 +0100">
 		<title lang="pt">Castle T5 - Ep. 20</title>
 		<desc lang="pt">Castle e Beckett encontram pegadas gigantes na cena de um crime, obrigando-os a acreditar que o assassino poderá ser o Bigfoot. Em breve percebem que a investigação pode ter se tornado demasiado perigosa.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723201000 +0100" stop="20150723210000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723202000 +0100" stop="20150723211000 +0100">
 		<title lang="pt">Castle T5 - Ep. 21</title>
 		<desc lang="pt">Beckett tem a vida por um fio, quando pisa um engenho explosivo que pode rebentar a qualquer momento. Enquanto a equipa de minas e armadilhas tenta desativar o engenho, Castle entretém Beckett com uma discussão sobre quem se apaixonou primeiro e por quem.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723210000 +0100" stop="20150723215500 +0100">
+	<programme channel="AXN HD ADSL" start="20150723211000 +0100" stop="20150723215900 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 12</title>
 		<desc lang="pt">Um homicídio ocorrido há alguns meses pode ser a chave para Lisbon importunar Volker.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723215500 +0100" stop="20150723225000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723215900 +0100" stop="20150723225500 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 13</title>
 		<desc lang="pt">Um caso com 25 anos envolve Red John e Visualize.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723225000 +0100" stop="20150723234500 +0100">
+	<programme channel="AXN HD ADSL" start="20150723225500 +0100" stop="20150723234900 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 14</title>
 		<desc lang="pt">A equipa investiga o cruel mundo académico.</desc>
 	</programme>
-	<programme channel="AXN HD ADSL" start="20150723234500 +0100" stop="20150724004000 +0100">
+	<programme channel="AXN HD ADSL" start="20150723234900 +0100" stop="20150724004300 +0100">
 		<title lang="pt">O Mentalista T5 - Ep. 15</title>
 		<desc lang="pt">A equipa investiga o homicídio de uma mulher idosa, herdeira de uma fortuna.</desc>
 	</programme>
 	<channel id="AXN BLACK ADSL">
 		<display-name>AXN BLACK ADSL</display-name>
 	</channel>
-	<programme channel="AXN BLACK ADSL" start="20150721225900 +0100" stop="20150722011800 +0100">
-		<title lang="pt">O Rei Pescador</title>
-		<desc lang="pt">Na imponente Nova Iorque atual, Jack, um locutor de rádio caído em desgraça, e Parry, alienado professor de história, empreendem a busca do Santo Graal.</desc>
-	</programme>
 	<programme channel="AXN BLACK ADSL" start="20150722011800 +0100" stop="20150722025500 +0100">
 		<title lang="pt">O Falcão Ataca de Novo</title>
 		<desc lang="pt">Eddie Hawkins, mais conhecido como ´o grande falcão´, é um ladrão que acaba de cumprir uma pena de dez anos de prisão e que agora planeia viver como um homem honesto No entanto, vê-se ameaçado pelo louco Mayflower para que roube algumas obras de Leonardo Da Vinci, caso contrário, este matará o seu amigo Tommy.</desc>
@@ -23424,69 +23360,65 @@
 		<title lang="pt">XIII T2 - Ep. 7</title>
 		<desc lang="pt">XIII, Betty e Mozambique apressam-se a libertar Vargas, antes de ele ser deportado para Guantánamo.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723073800 +0100" stop="20150723083500 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723073800 +0100" stop="20150723084100 +0100">
 		<title lang="pt">Bron (A Ponte) T1 - Ep. 10</title>
 		<desc lang="pt">Saga é alvejada no jardim de Martin e August raptado. A polícia percebe, então, que o último passo do maquiavélico plano do assassino é dirigido a Martin que, desesperadamente, se junta à caça, tentando salvar o filho.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723083500 +0100" stop="20150723095700 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723084100 +0100" stop="20150723102300 +0100">
 		<title lang="pt">O Despertar da Mente</title>
 		<desc lang="pt">Joel é surpreendido com a descoberta de que Clementine, a namorada, apagou as memórias da sua relação. Desesperado, contacta o inventor do processo para que este lhe elimine as memórias de Clementine. Mas à medida que a sua memória é apagada, Joel redescobre o seu amor por ela...</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723095700 +0100" stop="20150723114000 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723102300 +0100" stop="20150723115500 +0100">
 		<title lang="pt">Batalha em Seattle</title>
 		<desc lang="pt">Este filme conta a dramática situação que teve lugar no encontro da Organização Mundial do Comércio (MOC) em Seattle, 1999, em que 100.000 manifestantes provocaram o caos na cidade.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723114000 +0100" stop="20150723122600 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723115500 +0100" stop="20150723124100 +0100">
 		<title lang="pt">Diários do Vampiro T3 - Ep. 3</title>
 		<desc lang="pt">Klaus e Stefan chegam a Chicago, onde Stefan reencontra uma vampira que nunca deixou de gostar dele, desde há décadas. Num flashback até Chicago de 1920, Stefan confronta-se com o seu passado selvagem. Enquanto isso, Damon e Elena recebem uma pista que os leva para mais perto de Stefan.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723122600 +0100" stop="20150723131200 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723124100 +0100" stop="20150723132600 +0100">
 		<title lang="pt">Diários do Vampiro T3 - Ep. 4</title>
 		<desc lang="pt">Ainda em Chicago, Stefan usa Gloria para o ajudar a obter informação sobre o porquê do seu plano não estar a funcionar. Em Mystic Falls, um novo inimigo aparece na vida de Damon. Caroline lida com os seus sentimentos, ao mesmo tempo que ajuda Elena a lidar com os seus.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723131200 +0100" stop="20150723135800 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723132600 +0100" stop="20150723141200 +0100">
 		<title lang="pt">Diários do Vampiro T3 - Ep. 5</title>
 		<desc lang="pt">Apesar de tudo o que está a acontecer, Caroline está determinada em fazer com que Elena, Bonnie, Matt e Tyler aproveitem a tradicional Noite de Partidas, antes do início do ano escolar em Mystic Falls High School. Porém, quando uma pessoa que não tinha sido convidada aparece, a noite acaba por tomar um rumo mortal.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723135800 +0100" stop="20150723154100 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723141200 +0100" stop="20150723155400 +0100">
 		<title lang="pt">O Despertar da Mente</title>
 		<desc lang="pt">Joel é surpreendido com a descoberta de que Clementine, a namorada, apagou as memórias da sua relação. Desesperado, contacta o inventor do processo para que este lhe elimine as memórias de Clementine. Mas à medida que a sua memória é apagada, Joel redescobre o seu amor por ela...</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723154100 +0100" stop="20150723172400 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723155400 +0100" stop="20150723172600 +0100">
 		<title lang="pt">Batalha em Seattle</title>
 		<desc lang="pt">Este filme conta a dramática situação que teve lugar no encontro da Organização Mundial do Comércio (MOC) em Seattle, 1999, em que 100.000 manifestantes provocaram o caos na cidade.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723172400 +0100" stop="20150723181000 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723172600 +0100" stop="20150723181100 +0100">
 		<title lang="pt">Sobrenatural T9 - Ep. 21</title>
 		<desc lang="pt">Abaddon faz chantagem com Crowley para ajudar a matar Sam e Dean.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723181000 +0100" stop="20150723185600 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723181100 +0100" stop="20150723185700 +0100">
 		<title lang="pt">Sobrenatural T9 - Ep. 22</title>
 		<desc lang="pt">Tessa, a Cefeira, faz parte de uma conspiração dos anjos.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723185600 +0100" stop="20150723194200 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723185700 +0100" stop="20150723194300 +0100">
 		<title lang="pt">Sobrenatural T9 - Ep. 23</title>
 		<desc lang="pt">Sam, Dean e Castiel enfrentam Metatron no final da temporada.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723194200 +0100" stop="20150723212500 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723194300 +0100" stop="20150723212500 +0100">
 		<title lang="pt">O Despertar da Mente</title>
 		<desc lang="pt">Joel é surpreendido com a descoberta de que Clementine, a namorada, apagou as memórias da sua relação. Desesperado, contacta o inventor do processo para que este lhe elimine as memórias de Clementine. Mas à medida que a sua memória é apagada, Joel redescobre o seu amor por ela...</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723212500 +0100" stop="20150723231100 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723212500 +0100" stop="20150723225900 +0100">
 		<title lang="pt">Batalha em Seattle</title>
 		<desc lang="pt">Este filme conta a dramática situação que teve lugar no encontro da Organização Mundial do Comércio (MOC) em Seattle, 1999, em que 100.000 manifestantes provocaram o caos na cidade.</desc>
 	</programme>
-	<programme channel="AXN BLACK ADSL" start="20150723231100 +0100" stop="20150724005200 +0100">
+	<programme channel="AXN BLACK ADSL" start="20150723225900 +0100" stop="20150724003700 +0100">
 		<title lang="pt">Falsas Aparências</title>
 		<desc lang="pt">Nick é dentista no Canadá, onde luta para garantir o sustento da família. Quando um novo morador chega ao bairro, Nick descobre que é Jimmy 'A Tulipa' Teduski, um mafioso. A mulher de Nick convence-o a ir a Chicago, informar o padrinho da máfia que quer ver Jimmy morto.</desc>
 	</programme>
 	<channel id="AXN WHITE ADSL">
 		<display-name>AXN WHITE ADSL</display-name>
 	</channel>
-	<programme channel="AXN WHITE ADSL" start="20150721231200 +0100" stop="20150722011600 +0100">
-		<title lang="pt">Expiação</title>
-		<desc lang="pt">Em 1935, uma escritora de 13 anos, Briony Tallis (Saoirse Ronan), e a sua família vivem uma vida de riqueza e privilégios na sua ostentosa mansão. No dia mais quente do ano, gera-se uma atmosfera asfixiante, por culpa da ágil imaginação de Briony.</desc>
-	</programme>
 	<programme channel="AXN WHITE ADSL" start="20150722011600 +0100" stop="20150722020100 +0100">
 		<title lang="pt">Doutora no Alabama T4 - Ep. 2</title>
 		<desc lang="pt">Zoe esforça-se ao máximo para se concentrar no trabalho em vez de pensar em Wade. Embora relutantes, Lavon e George decidem unir forças para descobrir tudo sobre Henry, o novo namorado de Lemon.</desc>
@@ -23643,51 +23575,51 @@
 		<title lang="pt">Melissa E Joey T3 - Ep. 2</title>
 		<desc lang="pt">Melissa descobre que namora com o ex-marido da namorada de Joe.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723095500 +0100" stop="20150723101600 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723095500 +0100" stop="20150723101700 +0100">
 		<title lang="pt">Regras do jogo T6 - Ep. 3</title>
 		<desc lang="pt">A operação à garganta de Audrey não permite que fale, para grande satisfação de Jeff.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723101600 +0100" stop="20150723110100 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723101700 +0100" stop="20150723110400 +0100">
 		<title lang="pt">Trocadas à Nascença T3 - Ep. 19</title>
 		<desc lang="pt">Daphne tenta fugir da verdade. Nikki confronta a sua mãe acerca do seu pai. Entretanto, John continua a sentir-se em dívida para com Regina, por ela lhe ter salvo a vida. Ty e Bay vão acampar.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723110100 +0100" stop="20150723114700 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723110400 +0100" stop="20150723115000 +0100">
 		<title lang="pt">Era Uma Vez T4 - Ep. 22</title>
 		<desc lang="pt">O Autor revela-se imprevisível e faz um pacto com Gold que põe em risco o Final Feliz da história. Emma, os seus pais, Hook e Regina tudo fazem para evitar para os deter. Entretanto, Henry percebe que tem em mãos uma grande tarefa para salvar a sua família, antes da última página do livro ser virada...</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723114700 +0100" stop="20150723123300 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723115000 +0100" stop="20150723123800 +0100">
 		<title lang="pt">Era Uma Vez T4 - Ep. 23</title>
 		<desc lang="pt">O Autor revela-se imprevisível e faz um pacto com Gold que põe em risco o Final Feliz da história. Emma, os seus pais, Hook e Regina tudo fazem para evitar para os deter. Entretanto, Henry percebe que tem em mãos uma grande tarefa para salvar a sua família, antes da última página do livro ser virada...</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723123300 +0100" stop="20150723141400 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723123800 +0100" stop="20150723142000 +0100">
 		<title lang="pt">É Uma Espécie de... Comédia</title>
 		<desc lang="pt">Comédia otimista sobre a descoberta da sanidade mental nos lugares mais inesperados. Nem sempre o que nos passa pela cabeça é tão descabido como parece, o que se aplica em cheio a Craig, um adolescente à beira de um ataque de nervos, que dá entrada numa clínica psiquiátrica para se restabelecer.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723141400 +0100" stop="20150723150100 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723142000 +0100" stop="20150723150500 +0100">
 		<title lang="pt">Franklin & Bash T4 - Ep. 5</title>
 		<desc lang="pt">Peter quer conquistar uma paixão antiga, representando o filho dela, um jornalista do ensino secundário, cuja reportagem pôs em risco a sua bolsa universitária. Jared tenta parecer descontraído, mas acaba por debilitar o seu romance no local de trabalho com Swatello.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723150100 +0100" stop="20150723154900 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723150500 +0100" stop="20150723155200 +0100">
 		<title lang="pt">Pequenas Mentirosas T5 - Ep. 13</title>
 		<desc lang="pt">Com a aproximação do Natal, Aria, Emily, Hanna e Spencer procuram limpar o nome desta última. Alison recebe algo do passado, presente e futuro de uma presença fantasmagórica.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723154900 +0100" stop="20150723173000 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723155200 +0100" stop="20150723173400 +0100">
 		<title lang="pt">É Uma Espécie de... Comédia</title>
 		<desc lang="pt">Comédia otimista sobre a descoberta da sanidade mental nos lugares mais inesperados. Nem sempre o que nos passa pela cabeça é tão descabido como parece, o que se aplica em cheio a Craig, um adolescente à beira de um ataque de nervos, que dá entrada numa clínica psiquiátrica para se restabelecer.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723173000 +0100" stop="20150723181700 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723173400 +0100" stop="20150723182000 +0100">
 		<title lang="pt">Era Uma Vez T4 - Ep. 17</title>
 		<desc lang="pt">Gancho conta a Emma que o seu destino está em jogo no plano de Gold, enquanto Regina lidera uma caçada aos gansos selvagens.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723181700 +0100" stop="20150723190400 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723182000 +0100" stop="20150723190700 +0100">
 		<title lang="pt">Era Uma Vez T4 - Ep. 18</title>
 		<desc lang="pt">O mundo encantado de Storybrooke continua na quarta temporada.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723190400 +0100" stop="20150723195200 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723190700 +0100" stop="20150723195300 +0100">
 		<title lang="pt">Era Uma Vez T4 - Ep. 19</title>
 		<desc lang="pt">O mundo encantado de Storybrooke continua na quarta temporada.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723195200 +0100" stop="20150723204000 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723195300 +0100" stop="20150723204000 +0100">
 		<title lang="pt">Era Uma Vez T4 - Ep. 20</title>
 		<desc lang="pt">O mundo encantado de Storybrooke continua na quarta temporada.</desc>
 	</programme>
@@ -23695,11 +23627,11 @@
 		<title lang="pt">Criadas e Malvadas T2 - Ep. 1</title>
 		<desc lang="pt">Passaram três meses, e Marisol tem um novo amor. Quando Peri descobre que a Rosie está de volta aos EUA, não olha a meios para manter o Spence afastado da Rosie. Zoila sabe através de Genevieve que Valentina voltou de África. À medida que Carmen e Alejandro vão solidificando a sua relação falsa, Odessa atinge o seu limite.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723213000 +0100" stop="20150723231100 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723213000 +0100" stop="20150723231200 +0100">
 		<title lang="pt">É Uma Espécie de... Comédia</title>
 		<desc lang="pt">Comédia otimista sobre a descoberta da sanidade mental nos lugares mais inesperados. Nem sempre o que nos passa pela cabeça é tão descabido como parece, o que se aplica em cheio a Craig, um adolescente à beira de um ataque de nervos, que dá entrada numa clínica psiquiátrica para se restabelecer.</desc>
 	</programme>
-	<programme channel="AXN WHITE ADSL" start="20150723231100 +0100" stop="20150724010000 +0100">
+	<programme channel="AXN WHITE ADSL" start="20150723231200 +0100" stop="20150724010300 +0100">
 		<title lang="pt">Circo Dos Horrores: O Assistente Do Vampiro</title>
 		<desc lang="pt">Darren Shan era um rapaz de 16 anos igual a todos os outros, até mesmo na maneira como se aborrecia com o excesso de normalidade da sua vida. Até ao dia em que um Circo dos Horrores itinerante chega à cidade com as suas aberrações e a sua vida muda drasticamente.</desc>
 	</programme>
@@ -23953,14 +23885,6 @@
 	<channel id="FOX CRIME ADSL">
 		<display-name>FOX CRIME ADSL</display-name>
 	</channel>
-	<programme channel="FOX CRIME ADSL" start="20150721231000 +0100" stop="20150722004900 +0100">
-		<title lang="pt">Miss Marple De Agatha Christie T3 - Ep. 1</title>
-		<desc lang="pt">Miss Marple passa uma semana de férias num luxuoso hotel, em Londres. A atmosfera sinistra, o estranho desaparecimento de um clérigo e o homicídio de um porteiro colocam-na no encalço de um gangue de criminosos.</desc>
-	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150722004900 +0100" stop="20150722014000 +0100">
-		<title lang="pt">Prisões Americanas T4 - Ep. 6</title>
-		<desc lang="pt">O estabelecimento prisional de Fremont é um dos maiores e com maior número de reclusos do Colorado. Há quase tantos presos como guardas prisionais e é uma das prisões mais complexas.</desc>
-	</programme>
 	<programme channel="FOX CRIME ADSL" start="20150722014000 +0100" stop="20150722020200 +0100">
 		<title lang="pt">Cops T22 - Ep. 19</title>
 		<desc lang="pt">COPS, uma série em formato reality TV, mostra o quotidiano de alguns agentes da polícia em ação e os criminosos com quem se encontram diariamente.</desc>
@@ -24081,39 +24005,39 @@
 		<title lang="pt">Prisões Americanas T4 - Ep. 5</title>
 		<desc lang="pt">Os State Troopers do Alasca fazem a transferência de reclusos por meio de motos de neve, barcos fluviais e com maior frequência, de avião. Mas o Alasca tem um clima subártico muito inóspito que nem sempre oferece as melhores condições para a navegação aérea.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723043100 +0100" stop="20150723060600 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723043100 +0100" stop="20150723060800 +0100">
 		<title lang="pt">Miss Marple De Agatha Christie T2 - Ep. 4</title>
 		<desc lang="pt">A morte de um suposto futuro primeiro-ministro é prevista, durante uma sessão num hotel de campo bloqueado pela neve e, conforme anunciado, este é encontrado esfaqueado na manhã seguinte.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723060600 +0100" stop="20150723075000 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723060800 +0100" stop="20150723074600 +0100">
 		<title lang="pt">Midsomer Murders T12 - Ep. 2</title>
 		<desc lang="pt">Uma pintura de um artista de Midsomer, Henry Hogson, foi vendida em leilão por 400 mil libras a um colecionador texano. Pouco depois, o antigo proprietário é encontrado morto, com sinais de tortura, e uma outra pintura de Hogson roubada.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723075000 +0100" stop="20150723083800 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723074600 +0100" stop="20150723083500 +0100">
 		<title lang="pt">Território De Gangues T5 - Ep. 5</title>
 		<desc lang="pt">Muitos dos gangues nasceram através do sonho americano, à medida que os imigrantes vieram à procura de oportunidades, mas que acabaram por encontrar muita exclusão, pobreza e violência. Com entrevistas exclusivas, esta série mostra um olhar sobre as vidas e os bastidores dos gangues, a partir ex-membros e das forças que tentam travar este problema.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723083800 +0100" stop="20150723092400 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723083500 +0100" stop="20150723092100 +0100">
 		<title lang="pt">Lei & Ordem: Unidade Especial T13 - Ep. 23</title>
 		<desc lang="pt">Uma acompanhante de luxo menor é encontrada morta numa festa de despedida de solteiro, e a equipa investiga de forma discreta já que havia pessoas muito influentes envolvidas. Os detetives chegam assim a um conflito entre duas empresas de acompanhantes, mas um acontecimento chocante ameaça destruir a vida de um dos elementos da Unidade.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723092400 +0100" stop="20150723100900 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723092100 +0100" stop="20150723100700 +0100">
 		<title lang="pt">Lei & Ordem: Unidade Especial T14 - Ep. 1</title>
 		<desc lang="pt">No primeiro episódio da temporada, Cragen é preso pelo assassinato de uma prostituta e a unidade é entregue a um novo capitão.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723100900 +0100" stop="20150723114600 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723100700 +0100" stop="20150723114500 +0100">
 		<title lang="pt">Miss Marple De Agatha Christie T2 - Ep. 4</title>
 		<desc lang="pt">A morte de um suposto futuro primeiro-ministro é prevista, durante uma sessão num hotel de campo bloqueado pela neve e, conforme anunciado, este é encontrado esfaqueado na manhã seguinte.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723114600 +0100" stop="20150723123200 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723114500 +0100" stop="20150723123200 +0100">
 		<title lang="pt">Blue Bloods T4 - Ep. 15</title>
 		<desc lang="pt">Danny e Baez investigam o sequestro de uma jovem, que desapareceu depois da escola, o que traz memórias complicadas do passado para Danny, que trabalhou num caso similar anos antes.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723123200 +0100" stop="20150723132100 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723123200 +0100" stop="20150723131700 +0100">
 		<title lang="pt">Lei & Ordem: Unidade Especial T11 - Ep. 2</title>
 		<desc lang="pt">O corpo de uma acompanhante, que trabalhava via internet, é encontrado numa mala e o principal suspeito do homicídio era um empresário da rede e que era também um dos seus clientes.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723132100 +0100" stop="20150723140300 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723131700 +0100" stop="20150723140300 +0100">
 		<title lang="pt">Lei & Ordem: Unidade Especial T11 - Ep. 3</title>
 		<desc lang="pt">Stabler é atacado por um homem que tinha ajudado a prender há 19 anos. Quando o homem enfrenta uma acusação de tentativa de homicídio, garante ter sido ele a vítima, devido ao facto de ter estado confinado a uma cela solitária.</desc>
 	</programme>
@@ -24121,57 +24045,49 @@
 		<title lang="pt">Prisões Americanas T4 - Ep. 6</title>
 		<desc lang="pt">O estabelecimento prisional de Fremont é um dos maiores e com maior número de reclusos do Colorado. Há quase tantos presos como guardas prisionais e é uma das prisões mais complexas.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723145500 +0100" stop="20150723154300 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723145500 +0100" stop="20150723154400 +0100">
 		<title lang="pt">Justiça Americana T1 - Ep. 5</title>
 		<desc lang="pt">Wendy Hopkins, irmã do delegado Josh 'Hoppy' Hopkins de Ashe County lidou com drogas e enfrenta agora acusações e um julgamento pendente. Em Sullivan County, os agentes da polícia investigam uma denúncia de um possível local de fabrico de metanfetamina.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723154300 +0100" stop="20150723160500 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723154400 +0100" stop="20150723160700 +0100">
 		<title lang="pt">Cops T22 - Ep. 18</title>
 		<desc lang="pt">COPS, uma série em formato reality TV, mostra o quotidiano de alguns agentes da polícia em ação e os criminosos com quem se encontram diariamente.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723160500 +0100" stop="20150723174300 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723160700 +0100" stop="20150723174400 +0100">
 		<title lang="pt">Midsomer Murders T12 - Ep. 3</title>
 		<desc lang="pt">Um elemento do MI6 é assassinado enquanto estava numa casa segura do governo, em Midsomer. Barnaby tinha sido recrutado pelo MI6 no início da carreira. No entanto, é registado um outro homicídio e o detetive pensa haver uma ligação ao tempo em que muitos dos elementos da organização ficaram na Zona Este de Berlim durante a Guerra Fria.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723174300 +0100" stop="20150723182800 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723174400 +0100" stop="20150723183000 +0100">
 		<title lang="pt">Blue Bloods T4 - Ep. 19</title>
 		<desc lang="pt">Danny e Baez investigam a morte de um respeitado professor da faculdade que estava envolvido com um programa de bolsas de estudo bastante questionável.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723182800 +0100" stop="20150723191300 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723183000 +0100" stop="20150723191500 +0100">
 		<title lang="pt">Lei & Ordem: Unidade Especial T14 - Ep. 6</title>
 		<desc lang="pt">Uma rapariga desaparece após ter seguido a sua irmã mais velha até uma festa da faculdade, o seu raptor apaga os rastros, usando impressionantes conhecimentos de informática. Enquanto isso, Rollins recebe uma visita inesperada da sua irmã.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723191300 +0100" stop="20150723195800 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723191500 +0100" stop="20150723200000 +0100">
 		<title lang="pt">Lei & Ordem: Unidade Especial T14 - Ep. 7</title>
 		<desc lang="pt">Um bebé é levado de um parque infantil por uma mulher que diz ser sua mãe biológica e afirma que foi um poderoso advogado quem a engravidou.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723195800 +0100" stop="20150723204200 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723200000 +0100" stop="20150723204400 +0100">
 		<title lang="pt">Lei & Ordem: Unidade Especial T11 - Ep. 4</title>
 		<desc lang="pt">Um alcoólico, que tinha caído de um comboio, é acusado da violação brutal e homicídio de uma médica que fazia abortos. A sua defesa argumenta dizendo que o alcoolismo é uma doença, mas porque é que a procuradora Paxton se opõe tanto à reivindicação?</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723204200 +0100" stop="20150723212600 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723204400 +0100" stop="20150723213000 +0100">
 		<title lang="pt">Lei & Ordem: Unidade Especial T11 - Ep. 5</title>
 		<desc lang="pt">A equipa faz um acordo com um homem que tinha molestado o seu enteado em troca de informações que podiam ajudar a prender o líder de um grupo de pedófilos, mas será que a mãe da vítima é suficientemente forte para não por a operação em risco?</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723212600 +0100" stop="20150723231000 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723213000 +0100" stop="20150723231000 +0100">
 		<title lang="pt">Midsomer Murders T12 - Ep. 4</title>
 		<desc lang="pt">Em Midsomer, todos estão desesperados com os carros de uma empresa que circulam a alta velocidade. Um investigador, em conflito com a empresa, decide organizar um passeio de ciclistas e o mau relacionamento entre os dois grupos está a ficar fora de controlo. Barnaby suspeita que um caso de tentativa de homicídio tenha atingido a pessoa errada.</desc>
 	</programme>
-	<programme channel="FOX CRIME ADSL" start="20150723231000 +0100" stop="20150724004700 +0100">
+	<programme channel="FOX CRIME ADSL" start="20150723231000 +0100" stop="20150724004800 +0100">
 		<title lang="pt">Miss Marple de Agatha Christie T3 - Ep. 3</title>
 		<desc lang="pt">Uma mulher abastada dá uma festa para a família e amigos, na sua propriedade em Devon, incluindo a sua antiga colega de escola, Miss Marple. Quando um solicitador e a anfitriã da festa são assassinados, Miss Marple tenta encontrar um homicida esperto com um plano desonesto.</desc>
 	</programme>
 	<channel id="FOX LIFE ADSL">
 		<display-name>FOX LIFE ADSL</display-name>
 	</channel>
-	<programme channel="FOX LIFE ADSL" start="20150721231400 +0100" stop="20150722000900 +0100">
-		<title lang="pt">Scandal T4 - Ep. 10</title>
-		<desc lang="pt">O ponto de vista de Olivia revela os detalhes do seu desaparecimento.</desc>
-	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150722000900 +0100" stop="20150722015100 +0100">
-		<title lang="pt">Ring Of Deceit</title>
-		<desc lang="pt">Madison Byrne é uma bela e jovem especialista em arte, que tenta ajudar Jack Singer, um patrono abastado do seu museu, num mistério envolvendo um anel antigo. Este anel poderá ou não ter pertencido à sua família, antes de ser perdido na Segunda Grande Guerra.</desc>
-	</programme>
 	<programme channel="FOX LIFE ADSL" start="20150722015100 +0100" stop="20150722023600 +0100">
 		<title lang="pt">Masterchef USA T5 - Ep. 18</title>
 		<desc lang="pt">O famoso Chef Gordon Ramsay, o dono de restaurantes Joe Bastianich e o aclamado chef Graham Elliot retornam a Masterchef USA. Cerca de 30 mil candidatos testaram os seus dotes culinários em castings abertos.</desc>
@@ -24300,71 +24216,75 @@
 		<title lang="pt">Medium T5 - Ep. 11</title>
 		<desc lang="pt">Um homem chamado Lucas Harvey persegue Allison, convencido de que está cumprindo uma missão divina ao se livrar dela e de seu dom. A família Dubois está confinada à sua casa, sob proteção policial.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723053700 +0100" stop="20150723070800 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723053700 +0100" stop="20150723061800 +0100">
 		<title lang="pt">Scandal T4 - Ep. 11</title>
 		<desc lang="pt">Os membros da equipa reúnem-se para encontrar Olivia e trazê-la de volta.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723070800 +0100" stop="20150723075600 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723061800 +0100" stop="20150723070300 +0100">
+		<title lang="pt">Medium T5 - Ep. 12</title>
+		<desc lang="pt">Allison continua a ser atormentada por Harvey, seu perseguidor. Harvey intervém nos seus sonhos, tornando-a inútil para Devalos e Scanlon durante uma investigação de assassinatos em série.</desc>
+	</programme>
+	<programme channel="FOX LIFE ADSL" start="20150723070300 +0100" stop="20150723074500 +0100">
 		<title lang="pt">Body Of Proof T2 - Ep. 20</title>
 		<desc lang="pt">Quando a causa de uma morte parece estranhamente familiar, Megan vê-se obrigada a ficar frente a frente com um assassino em série que ela tinha ajudado a libertar.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723075600 +0100" stop="20150723084700 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723074500 +0100" stop="20150723082900 +0100">
 		<title lang="pt">Body Of Proof T3 - Ep. 1</title>
 		<desc lang="pt">Depois de meses após a morte de Peter, Megan regressa ao trabalho e descobre que vai trabalhar com um novo detetive, alguém com quem já se relacionou no passado. Juntos investigam um assassino em série, que tem como alvo, um ex-combatentes de guerra.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723084700 +0100" stop="20150723093600 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723082900 +0100" stop="20150723091400 +0100">
 		<title lang="pt">Masterchef USA T5 - Ep. 19</title>
 		<desc lang="pt">O famoso Chef Gordon Ramsay, o dono de restaurantes Joe Bastianich e o aclamado chef Graham Elliot retornam a Masterchef USA. Cerca de 30 mil candidatos testaram os seus dotes culinários em castings abertos.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723093600 +0100" stop="20150723102100 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723091400 +0100" stop="20150723100000 +0100">
 		<title lang="pt">Rizzoli & Isles T3 - Ep. 6</title>
 		<desc lang="pt">Quando um financeiro é encontrado num contentor de lixo, com uma capa e uma máscara, Jane e Maura têm que descobrir o que aconteceu. Maura fica mais próxima da sua mãe biológica e da sua meia-irmã, que ainda não sabia que Maura era da sua família.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723102100 +0100" stop="20150723110600 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723100000 +0100" stop="20150723104500 +0100">
 		<title lang="pt">Body Of Proof T3 - Ep. 2</title>
 		<desc lang="pt">Megan descobre que o serial killer foca sua atenção em ex-combatentes, porém precisa de ocultar essa informação para não arriscar a vida da própria filha.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723110600 +0100" stop="20150723115100 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723104500 +0100" stop="20150723113200 +0100">
 		<title lang="pt">Anatomia De Grey T10 - Ep. 16</title>
 		<desc lang="pt">Meredith contrata um assistente para ajudá-la no seu projeto. Callie, magoada, choca Derek. Shane dá assistência na escolha de candidatos para o teste clínico de Cristina, conhecendo uma jovem grávida que precisa de ajuda.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723115100 +0100" stop="20150723123600 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723113200 +0100" stop="20150723121900 +0100">
 		<title lang="pt">A Patologista T2 - Ep. 6</title>
 		<desc lang="pt">A Dra. Jordan Cavanaugh é uma médica-legista que perdeu o seu emprego, devido à sua paixão por solucionar homicídios. Anos depois, um amigo, Dr. Garret Macy, contrata Jordan para o seu antigo posto em Boston, no Departamento de Investigação Criminal. Jordan contínua teimosa e explosiva, mas é tolerada na equipa porque é excelente na sua função.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723123600 +0100" stop="20150723132100 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723121900 +0100" stop="20150723130400 +0100">
 		<title lang="pt">Ossos T7 - Ep. 3</title>
 		<desc lang="pt">Depois dos restos mortais de uma executiva de uma empresa de brinquedos terem sido encontrados com um boneco de um príncipe encantado, o CEO da empresa dá acesso a Booth e Sweets ao laboratório secreto de protótipos da empresa onde pormenores sobre a vida da vítima começam a emergir.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723132100 +0100" stop="20150723140800 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723130400 +0100" stop="20150723135400 +0100">
 		<title lang="pt">Ossos T7 - Ep. 4</title>
 		<desc lang="pt">Os restos morais desmembrados de uma pessoa são descobertos em várias caixas de correio de uma antiga estação de correios e a equipa identifica a vítima como um dos funcionários de uma loja local, onde a equipa tinha gasto os lucros da lotaria recentemente.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723140800 +0100" stop="20150723154000 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723135400 +0100" stop="20150723152900 +0100">
 		<title lang="pt">No Surrender</title>
 		<desc lang="pt">O blog da Amelia, sobre o poder das mulheres e a intolerância para com relações violentas, trouxe-lhe fama, fortuna e agora alguém quer matá-la. Será o novo homem na sua vida? O seu ex em liberdade condicional? Ou um fã? Amelia terá de descobrir a identidade de quem está por trás da bizarra série de ataques para lhes pôr um fim.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723154000 +0100" stop="20150723162500 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723152900 +0100" stop="20150723161700 +0100">
 		<title lang="pt">A Patologista T2 - Ep. 12</title>
 		<desc lang="pt">A Dra. Jordan Cavanaugh é uma médica-legista que perdeu o seu emprego, devido à sua paixão por solucionar homicídios. Anos depois, um amigo, Dr. Garret Macy, contrata Jordan para o seu antigo posto em Boston, no Departamento de Investigação Criminal. Jordan contínua teimosa e explosiva, mas é tolerada na equipa porque é excelente na sua função.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723162500 +0100" stop="20150723172100 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723161700 +0100" stop="20150723170700 +0100">
 		<title lang="pt">A Patologista T2 - Ep. 13</title>
 		<desc lang="pt">A Dra. Jordan Cavanaugh é uma médica-legista que perdeu o seu emprego, devido à sua paixão por solucionar homicídios. Anos depois, um amigo, Dr. Garret Macy, contrata Jordan para o seu antigo posto em Boston, no Departamento de Investigação Criminal. Jordan contínua teimosa e explosiva, mas é tolerada na equipa porque é excelente na sua função.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723172100 +0100" stop="20150723185500 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723170700 +0100" stop="20150723184400 +0100">
 		<title lang="pt">Ring Of Deceit</title>
 		<desc lang="pt">Madison Byrne é uma bela e jovem especialista em arte, que tenta ajudar Jack Singer, um patrono abastado do seu museu, num mistério envolvendo um anel antigo. Este anel poderá ou não ter pertencido à sua família, antes de ser perdido na Segunda Grande Guerra.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723185500 +0100" stop="20150723194400 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723184400 +0100" stop="20150723193400 +0100">
 		<title lang="pt">Rizzoli & Isles T3 - Ep. 6</title>
 		<desc lang="pt">Quando um financeiro é encontrado num contentor de lixo, com uma capa e uma máscara, Jane e Maura têm que descobrir o que aconteceu. Maura fica mais próxima da sua mãe biológica e da sua meia-irmã, que ainda não sabia que Maura era da sua família.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723194400 +0100" stop="20150723203500 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723193400 +0100" stop="20150723202900 +0100">
 		<title lang="pt">Ossos T7 - Ep. 5</title>
 		<desc lang="pt">A equipa descobre os restos mortais de um conhecido caçador de tempestades que tinha morrido enquanto, aparentemente, perseguia um tornado. Mas as imagens captadas durante a tempestade levam a equipa a pensar que a vítima tinha sido assassinada.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723203500 +0100" stop="20150723212500 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723202900 +0100" stop="20150723212500 +0100">
 		<title lang="pt">Ossos T7 - Ep. 6</title>
 		<desc lang="pt">Uma mensagem encriptada repleta de sangue humano é descoberta num monumento nacional. Enquanto a equipa tenta a todo o custo resolver o caso, apercebem-se que o seu suspeito está um passo à sua frente. Entretanto, Booth e Brennan procuram a casa perfeita para a sua nova família.</desc>
 	</programme>
@@ -24376,17 +24296,13 @@
 		<title lang="pt">Empire T1 - Ep. 2</title>
 		<desc lang="pt">Luscious tem de defender o lançamento da venda das ações da Empire ao público, depois de surgir uma controvérsia, em redor de um dos seus artistas e do seu envolvimento num tiroteio.</desc>
 	</programme>
-	<programme channel="FOX LIFE ADSL" start="20150723231500 +0100" stop="20150724000800 +0100">
+	<programme channel="FOX LIFE ADSL" start="20150723231500 +0100" stop="20150724001100 +0100">
 		<title lang="pt">Scandal T4 - Ep. 12</title>
 		<desc lang="pt">Olivia mantém-se sempre um passo à frente daqueles que a capturaram, mas não conseguirá manter-se assim por muito tempo. Enquanto isso, Jake, Huck e Finn pedem ajuda a um velho amigo.</desc>
 	</programme>
 	<channel id="HOLLYWOOD ADSL">
 		<display-name>HOLLYWOOD ADSL</display-name>
 	</channel>
-	<programme channel="HOLLYWOOD ADSL" start="20150721010000 +0100" stop="20150722010000 +0100">
-		<title lang="pt">Sem Programação</title>
-		<desc lang="pt">Sem Programação</desc>
-	</programme>
 	<programme channel="HOLLYWOOD ADSL" start="20150722010000 +0100" stop="20150723010000 +0100">
 		<title lang="pt">Sem Programação</title>
 		<desc lang="pt">Sem Programação</desc>
@@ -24398,14 +24314,6 @@
 	<channel id="NATIONAL GEOGRAPHIC ADSL">
 		<display-name>NATIONAL GEOGRAPHIC ADSL</display-name>
 	</channel>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150721234400 +0100" stop="20150722003000 +0100">
-		<title lang="pt">Pesca no Limite: Batalha no Atlântico T4 - Ep. 10</title>
-		<desc lang="pt">Estamos no início da décima semana da temporada de pesca ao atum no Atlântico Norte em Gloucester, Massachusetts, e apenas com seis semanas restantes para pescar, a competição está ao rubro, levando os capitães a puxar o máximo de si e das suas tripulações.</desc>
-	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150722003000 +0100" stop="20150722011800 +0100">
-		<title lang="pt">Fugas da Prisão T2 - Ep. 4</title>
-		<desc lang="pt">Armed robber Roy Harper and his buddy, murderer John Woolard, achieve the impossible. They break out of Unit 32, the prisons notorious supermax facility. Harper and Woolard had cut through their cell windows undetected using hacksaw blades smuggled into the unit.</desc>
-	</programme>
 	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150722011800 +0100" stop="20150722020500 +0100">
 		<title lang="pt">Fugas da Prisão T1 - Ep. 3</title>
 		<desc lang="pt">Murderer Timothy Vail and his best friend escape from their cell at Elmira Prison in New York State by chipping a hole through the concrete ceiling. They're on the run for two days before they're recaptured by police in a dramatic takedown.</desc>
@@ -24566,55 +24474,55 @@
 		<title lang="pt">Mega Fábricas T2 - Ep. 15</title>
 		<desc lang="pt">This 60 metres high thrill ride is only the 5th ever to be constructed. It's adrenaline fuelled tracks speed riders to over 100 kph over loops, drops and banks, pushing them to g force limits usually reserved for fighter pilots. Building this mighty machine takes an army on engineers, designers and master technicians.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723060000 +0100" stop="20150723073000 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723060000 +0100" stop="20150723073400 +0100">
 		<title lang="pt">Radiografia do Planeta - Ep. 1</title>
 		<desc lang="pt">In this epic, one hour cut-down, X-Ray Earth reveals the planet as it's never been seen before. Using some of the most cutting-edge tools in science, get an inside look at Earth to learn what makes it tick.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723073000 +0100" stop="20150723075200 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723073400 +0100" stop="20150723075600 +0100">
 		<title lang="pt">Descodificar o Perigo T1 - Ep. 1</title>
 		<desc lang="pt">Neste episódio de Danger Decoded, uma série de desastres apanhados em câmara vão desde um grupo de paraquedistas cujo paraquedas não activa como planeado a uma tempestade terrível em Taiwan onde motoristas enfrentam a morte e um festival de balões onde os eventos correm mal.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723075200 +0100" stop="20150723081600 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723075600 +0100" stop="20150723081900 +0100">
 		<title lang="pt">Descodificar o Perigo T1 - Ep. 6</title>
 		<desc lang="pt">Neste episódio de Danger Decoded, uma série de desastres apanhados em câmara vão desde uma expedição às montanhas onde nem tudo corre como planeado, uma corrida de barcos cheia de adrenalina com um resultado terrível e um evento de ciclismo downhill de velocidade que caminha na direcção da catástrofe.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723081600 +0100" stop="20150723090200 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723081900 +0100" stop="20150723090400 +0100">
 		<title lang="pt">Pesca no Limite: Batalha no Atlântico T3 - Ep. 12</title>
 		<desc lang="pt">There are only four weeks left in the North Atlantic bluefin tuna season and, with the fish earning top-dollar after months of fattening up on New England's feeding grounds, the Gloucester fleet is desperate to haul in a monster. Old grudges flare up as friends- turned-foes try to out-fish each other, with Dave Carraro on FV-tuna.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723090200 +0100" stop="20150723094800 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723090400 +0100" stop="20150723095000 +0100">
 		<title lang="pt">SOS Automóvel T3 - Ep. 5</title>
 		<desc lang="pt">Kim, mãe de três filhos, é fanática por carros e, juntamente com o seu marido Mark, estava a restaurar o seu carro de sonho, um Nissan Skyline GTR de 1995, quando aconteceu uma tragédia. Mark é morto num acidente de moto, deixando Kim a cuidar sozinha de três crianças pequenas.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723094800 +0100" stop="20150723112000 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723095000 +0100" stop="20150723112800 +0100">
 		<title lang="pt">Radiografia do Planeta - Ep. 1</title>
 		<desc lang="pt">In this epic, one hour cut-down, X-Ray Earth reveals the planet as it's never been seen before. Using some of the most cutting-edge tools in science, get an inside look at Earth to learn what makes it tick.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723112000 +0100" stop="20150723120600 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723112800 +0100" stop="20150723121100 +0100">
 		<title lang="pt">Pesca no Limite: Batalha no Atlântico T3 - Ep. 13</title>
 		<desc lang="pt">The FV-Tuna.com has a commanding lead over the fleet, so with only three weeks left in the season, the other boats are clamoring for the second place position. The quest for glory and need for money cause friendships to take a backseat. For some captains, the pressure pushes them to thrive, leaving others drowning in their wake.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723120600 +0100" stop="20150723125400 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723121100 +0100" stop="20150723125800 +0100">
 		<title lang="pt">SOS Automóvel T2 - Ep. 10</title>
 		<desc lang="pt">The Car SOS team are off to Hartlepool in northern England to rescue a classic VW Campervan. Owner and classic car enthusiast Brian has had the van for over forty years , it's become part of the family, but since suffering a major stroke he's been unable to maintain his beloved VW and it has been left to rot.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723125400 +0100" stop="20150723131800 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723125800 +0100" stop="20150723132100 +0100">
 		<title lang="pt">Experiências Científicas T2 - Ep. 4</title>
 		<desc lang="pt">Tim Shaw, o homem a quem chamam génio das ruas, leva-nos numa viagem para mostrar o porquê das coisas acontecerem.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723131800 +0100" stop="20150723134000 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723132100 +0100" stop="20150723134300 +0100">
 		<title lang="pt">Experiências Científicas T2 - Ep. 5</title>
 		<desc lang="pt">O homem a quem chamam de Street Genius (Génio de Rua), Tim Shaw, brilha no palco das ciências enquanto testa o poder da cola, de uma bota foguete, as propriedades mistificantes do gelo seco e o que acontece num confronto entre humanos e cachorros quentes.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723134000 +0100" stop="20150723142600 +0100">
-		<title lang="pt">Sobreviver ao Alasca T2 - Ep. 4</title>
-		<desc lang="pt">After the loss of the Woodsmen, leg four begins with the cruel reminder that unexpected injuries could take anyone by surprise. From the start, the three remaining teams face the daunting task of climbing up and over the Tordrillo Mountains.</desc>
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723134300 +0100" stop="20150723142800 +0100">
+		<title lang="pt">Mercado Negro T1 - Ep. 1</title>
+		<desc lang="pt">Para os imigrantes a atravessar ilegalmente a fronteira entre o México e os Estados Unidos, sobreviver ao deserto pode ser uma experiência brutal.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723142600 +0100" stop="20150723151300 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723142800 +0100" stop="20150723151400 +0100">
 		<title lang="pt">Mercado Negro T1 - Ep. 5</title>
 		<desc lang="pt">Fármacos contrafeitos movem mais dinheiro que a heroína. Estão na internet, nas farmácias e nas ruas. E a procura aumenta. Os polícias trabalham, apreendendo ladrões de fármacos, contrabandistas e farmacêuticos das ruelas. O negócio está a ficar feio e as consequências são letais.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723151300 +0100" stop="20150723160000 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723151400 +0100" stop="20150723160000 +0100">
 		<title lang="pt">Mercado Negro T1 - Ep. 6</title>
 		<desc lang="pt">Tudo pode ser falsificado: relógios, livros de bolso, sapatos, material eletrónico, smart phones. A empresa e a mestria são de cortar o fôlego. A economia de contrafacção gera uns estimados 500 mil milhões de dólares por ano. A China produz uma porção massiva das falsidades do mundo e os consumidores americanos são um dos maiores mercados.</desc>
 	</programme>
@@ -24622,72 +24530,60 @@
 		<title lang="pt">Pesca no Limite: Batalha no Atlântico T4 - Ep. 3</title>
 		<desc lang="pt">Four weeks into their fishing season, the fishermen of Gloucester, Massachusetts are desperate for bluefin tuna, and with the fishing migration of the elusive catch in an unpredictable state, some resort to espionage for information.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723164600 +0100" stop="20150723173200 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723164600 +0100" stop="20150723173100 +0100">
 		<title lang="pt">Pesca no Limite: Batalha no Atlântico T3 - Ep. 8</title>
 		<desc lang="pt">With the second half of the North Atlantic bluefin tuna fishing season now underway, competition amongst the Gloucester fleet intensifies when tuna become scarce. For FV- Tuna.com captain Dave Carraro, his narrow lead over TJ Ott, skipper of The Hot Tuna, and Bill 'Hollywood' Muniz, leader of harpoon boat Lily, is more fragile than ever.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723173200 +0100" stop="20150723181800 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723173100 +0100" stop="20150723181900 +0100">
 		<title lang="pt">Mercado Negro T1 - Ep. 1</title>
 		<desc lang="pt">Para os imigrantes a atravessar ilegalmente a fronteira entre o México e os Estados Unidos, sobreviver ao deserto pode ser uma experiência brutal.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723181800 +0100" stop="20150723184000 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723181900 +0100" stop="20150723184200 +0100">
 		<title lang="pt">Experiências Científicas T2 - Ep. 4</title>
 		<desc lang="pt">Tim Shaw, o homem a quem chamam génio das ruas, leva-nos numa viagem para mostrar o porquê das coisas acontecerem.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723184000 +0100" stop="20150723190400 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723184200 +0100" stop="20150723190500 +0100">
 		<title lang="pt">Experiências Científicas T2 - Ep. 5</title>
 		<desc lang="pt">O homem a quem chamam de Street Genius (Génio de Rua), Tim Shaw, brilha no palco das ciências enquanto testa o poder da cola, de uma bota foguete, as propriedades mistificantes do gelo seco e o que acontece num confronto entre humanos e cachorros quentes.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723190400 +0100" stop="20150723192800 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723190500 +0100" stop="20150723192800 +0100">
 		<title lang="pt">Descodificar o Perigo T1 - Ep. 1</title>
 		<desc lang="pt">Neste episódio de Danger Decoded, uma série de desastres apanhados em câmara vão desde um grupo de paraquedistas cujo paraquedas não activa como planeado a uma tempestade terrível em Taiwan onde motoristas enfrentam a morte e um festival de balões onde os eventos correm mal.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723192800 +0100" stop="20150723195000 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723192800 +0100" stop="20150723195200 +0100">
 		<title lang="pt">Descodificar o Perigo T1 - Ep. 6</title>
 		<desc lang="pt">Neste episódio de Danger Decoded, uma série de desastres apanhados em câmara vão desde uma expedição às montanhas onde nem tudo corre como planeado, uma corrida de barcos cheia de adrenalina com um resultado terrível e um evento de ciclismo downhill de velocidade que caminha na direcção da catástrofe.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723195000 +0100" stop="20150723203600 +0100">
-		<title lang="pt">Sobreviver ao Alasca T2 - Ep. 4</title>
-		<desc lang="pt">After the loss of the Woodsmen, leg four begins with the cruel reminder that unexpected injuries could take anyone by surprise. From the start, the three remaining teams face the daunting task of climbing up and over the Tordrillo Mountains.</desc>
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723195200 +0100" stop="20150723203800 +0100">
+		<title lang="pt">Mercado Negro T1 - Ep. 1</title>
+		<desc lang="pt">Para os imigrantes a atravessar ilegalmente a fronteira entre o México e os Estados Unidos, sobreviver ao deserto pode ser uma experiência brutal.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723203600 +0100" stop="20150723212400 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723203800 +0100" stop="20150723212400 +0100">
 		<title lang="pt">Pesca no Limite: Batalha no Atlântico T4 - Ep. 1</title>
 		<desc lang="pt">Dave Carraro and his boat, Tuna.Com, are kicking the Gloucester fleet's collective butt. But a brash new Captain, Kevin Leonowert, anchors his boat, the Christina, next to Dave, and proceeds to catch an 1,100 pound bluefin right under Dave's nose. News of the year's biggest catch ripples throughout Gloucester.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723212400 +0100" stop="20150723221000 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723212400 +0100" stop="20150723221200 +0100">
 		<title lang="pt">SOS Automóvel T3 - Ep. 4</title>
 		<desc lang="pt">Hoje, Tim e Fuzz partem para Northumberland para resgatar um achado num celeiro. Tom Mason é o dono de uma companhia de arrendamento de equipamento e dedica-se à caridade em Rothbury. Ele ajudou os outros durante toda a sua vida mas, ultimamente, tem sofrido imenso com a sua saúde.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723221000 +0100" stop="20150723230000 +0100">
-		<title lang="pt">Construção em Estado Selvagem T2 - Ep. 5</title>
-		<desc lang="pt">Os Reis das Cabines partem para Grafton, em Nova Iorque, para a propriedade de férias da família Kiely. Tommy Kiely e o seu filho Thomas são a 4ª e 5ª geração de Kielys a usarem este terreno, que inclui um pântano de 12 acres.</desc>
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723221200 +0100" stop="20150723230000 +0100">
+		<title lang="pt">Apocalipse da Primeira Guerra Mundial T1 - Ep. 3</title>
+		<desc lang="pt">Setembro de 1915, milhões de homens são apanhados nas malhas de uma guerra gigante. Desde as trincheiras francesas aos Alpes italianos e aos Balcãs, além das portas das zonas de leste, a Europa está em fogo. Novas armas, novas defesas: a guerra tornou-se industrial e química. O conflito atinge um nivel de violência sem precedentes.</desc>
 	</programme>
 	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723230000 +0100" stop="20150723234800 +0100">
 		<title lang="pt">O Rei das Cartas - Ep. 1</title>
 		<desc lang="pt">Drummond Money-Coutts takes us on a mission to explore the secrets behind advanced card play and card magic, through one of the oldest card tricks in the world: the Three Card Monte.</desc>
 	</programme>
-	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723234800 +0100" stop="20150724003400 +0100">
+	<programme channel="NATIONAL GEOGRAPHIC ADSL" start="20150723234800 +0100" stop="20150724003300 +0100">
 		<title lang="pt">Pesca no Limite: Batalha no Atlântico T4 - Ep. 12</title>
 		<desc lang="pt">Chegou a 12ª semana da temporada de pesca do atum no Atlântico Norte, após não se apanhar um único peixe na semana passada. O campeão da semana passada, o Capitão Dave Carraro do FV-Tuna.com, procurou ajuda no seu aliado, o Capitão TJ Ott, do Hot Tuna.</desc>
 	</programme>
 	<channel id="PANDA ADSL">
 		<display-name>PANDA ADSL</display-name>
 	</channel>
-	<programme channel="PANDA ADSL" start="20150722000000 +0100" stop="20150722003000 +0100">
-		<title lang="pt">Campeões - Oliver E Benji T1 - Ep. 16</title>
-		<desc lang="pt">Oliver Atón, agora transformado num famoso futebolista no Brasil, recorda os dias da sua infância quando, logo a seguir a mudar-se para Nankatsu, se junta à equipa de futebol local. Durante uma partida contra o Syutetu, aparece um homem misterioso que fica muito impressionado com a sua maneira de jogar.</desc>
-	</programme>
-	<programme channel="PANDA ADSL" start="20150722003000 +0100" stop="20150722004500 +0100">
-		<title lang="pt">O Clube Dos Engenhocas T1 - Ep. 39</title>
-		<desc lang="pt">Quatro amigos, com idades entre os 7 e 8 anos, Clara, Bem, Li-Mei e Matt - que adoram fazer coisas e divertir-se descobriram o clube dos engenhocas.</desc>
-	</programme>
-	<programme channel="PANDA ADSL" start="20150722004500 +0100" stop="20150722010000 +0100">
-		<title lang="pt">O Clube Dos Engenhocas T1 - Ep. 40</title>
-		<desc lang="pt">Quatro amigos, com idades entre os 7 e 8 anos, Clara, Bem, Li-Mei e Matt - que adoram fazer coisas e divertir-se descobriram o clube dos engenhocas.</desc>
-	</programme>
 	<programme channel="PANDA ADSL" start="20150722010000 +0100" stop="20150722013000 +0100">
 		<title lang="pt">Robots Invasores T1 - Ep. 2</title>
-		<desc lang="pt">Três robôs, Rivet, Widgit e o Socket, aterram acidentalmente no jardim da casa dos gémeos Robin e Daisy Harrison. Incapazes de regressar ao seu planeta, os três robôs acabam por desistir e tornam-se amigos do Robin e da Daisy.</desc>
+		<desc lang="pt">Robots Invasores T1</desc>
 	</programme>
 	<programme channel="PANDA ADSL" start="20150722013000 +0100" stop="20150722020000 +0100">
 		<title lang="pt">Robots Invasores T1 - Ep. 3</title>
@@ -25280,17 +25176,9 @@
 	<channel id="SPORT TV 1 HD ADSL">
 		<display-name>SPORT TV 1 HD ADSL</display-name>
 	</channel>
-	<programme channel="SPORT TV 1 HD ADSL" start="20150721223000 +0100" stop="20150722003000 +0100">
-		<title lang="pt">Roma x Man. City - Guinness Cup</title>
-		<desc lang="pt">Transmissão do encontro a contar para a Guinness International Champions Cup.</desc>
-	</programme>
-	<programme channel="SPORT TV 1 HD ADSL" start="20150722003000 +0100" stop="20150722010000 +0100">
-		<title lang="pt">Estrelas Mundiais - Messi e Giroud</title>
-		<desc lang="pt">Uma oportunidade para ficar a conhecer melhor algumas das principais estrelas do futebol mundial.</desc>
-	</programme>
 	<programme channel="SPORT TV 1 HD ADSL" start="20150722010000 +0100" stop="20150722013500 +0100">
 		<title lang="pt">Estrelas Mundiais - Neymar e Ozil</title>
-		<desc lang="pt">Uma oportunidade para ficar a conhecer melhor algumas das principais estrelas do futebol mundial.</desc>
+		<desc lang="pt">Estrelas Mundiais - Neymar e Ozil</desc>
 	</programme>
 	<programme channel="SPORT TV 1 HD ADSL" start="20150722013500 +0100" stop="20150722033000 +0100">
 		<title lang="pt">PSG x Fiorentina - Guinness Cup (Direto)</title>
@@ -25417,18 +25305,18 @@
 		<desc lang="pt">Uma oportunidade para ficar a conhecer melhor algumas das principais estrelas do futebol mundial.</desc>
 	</programme>
 	<programme channel="SPORT TV 1 HD ADSL" start="20150723094000 +0100" stop="20150723114000 +0100">
-		<title lang="pt">Gold Cup</title>
-		<desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Gold Cup.</desc>
+		<title lang="pt">New York Red Bulls x Chelsea - Guinness Cup</title>
+		<desc lang="pt">Transmissão do encontro a contar para a Guinness International Champions Cup.</desc>
 	</programme>
 	<programme channel="SPORT TV 1 HD ADSL" start="20150723114000 +0100" stop="20150723120000 +0100">
 		<title lang="pt">Informação: Notícias</title>
 		<desc lang="pt">Toda a atualidade desportiva.</desc>
 	</programme>
-	<programme channel="SPORT TV 1 HD ADSL" start="20150723120000 +0100" stop="20150723123000 +0100">
+	<programme channel="SPORT TV 1 HD ADSL" start="20150723120000 +0100" stop="20150723123500 +0100">
 		<title lang="pt">Man. United x San Jose Earthquakes - Guinness Cup (Resumo)</title>
 		<desc lang="pt">Resumo do encontro a contar para a Guinness International Champions Cup.</desc>
 	</programme>
-	<programme channel="SPORT TV 1 HD ADSL" start="20150723123000 +0100" stop="20150723143000 +0100">
+	<programme channel="SPORT TV 1 HD ADSL" start="20150723123500 +0100" stop="20150723143000 +0100">
 		<title lang="pt">B. Munique x G. Evergrande - Jogo De Preparação (Direto)</title>
 		<desc lang="pt">Transmissão do encontro de caráter particular.</desc>
 	</programme>
@@ -25465,8 +25353,8 @@
 		<desc lang="pt">Liga De Verão</desc>
 	</programme>
 	<programme channel="SPORT TV 1 HD ADSL" start="20150723201000 +0100" stop="20150723220000 +0100">
-		<title lang="pt">New York Red Bulls x Chelsea - Guinness Cup</title>
-		<desc lang="pt">Transmissão do encontro a contar para a Guinness International Champions Cup.</desc>
+		<title lang="pt">B. Munique x G. Evergrande - Jogo De Preparação</title>
+		<desc lang="pt">Transmissão do encontro de caráter particular.</desc>
 	</programme>
 	<programme channel="SPORT TV 1 HD ADSL" start="20150723220000 +0100" stop="20150723223000 +0100">
 		<title lang="pt">Informação: Últimas Notícias</title>
@@ -25487,13 +25375,9 @@
 	<channel id="SPORT TV 2 HD ADSL">
 		<display-name>SPORT TV 2 HD ADSL</display-name>
 	</channel>
-	<programme channel="SPORT TV 2 HD ADSL" start="20150721225000 +0100" stop="20150722010000 +0100">
-		<title lang="pt">Ténis: ATP World Tour 250 - Croácia</title>
-		<desc lang="pt">Acompanhe o Torneio UMAG da Croácia,uma prova a contar para a ATP World Tour.</desc>
-	</programme>
 	<programme channel="SPORT TV 2 HD ADSL" start="20150722010000 +0100" stop="20150722030000 +0100">
 		<title lang="pt">Guarani x River Plate - T. Libertadores Da América (Direto)</title>
-		<desc lang="pt">Transmissão do encontro a contar para a Taça dos Libertadores da América.</desc>
+		<desc lang="pt">Guarani x River Plate - T. Libertadores Da América (Direto)</desc>
 	</programme>
 	<programme channel="SPORT TV 2 HD ADSL" start="20150722030000 +0100" stop="20150722040500 +0100">
 		<title lang="pt">FC Porto x Duisburgo - Jogo De Preparação (Resumo)</title>
@@ -25598,14 +25482,6 @@
 	<channel id="SPORT TV 3 ADSL">
 		<display-name>SPORT TV 3 ADSL</display-name>
 	</channel>
-	<programme channel="SPORT TV 3 ADSL" start="20150721223500 +0100" stop="20150722001000 +0100">
-		<title lang="pt">Voleibol: EUA x Polónia - World League</title>
-		<desc lang="pt">Transmissão do encontro a contar para a World League de Voleibol.</desc>
-	</programme>
-	<programme channel="SPORT TV 3 ADSL" start="20150722001000 +0100" stop="20150722021000 +0100">
-		<title lang="pt">Voleibol: França x Polónia - World League</title>
-		<desc lang="pt">Transmissão da final do World League de Voleibol.</desc>
-	</programme>
 	<programme channel="SPORT TV 3 ADSL" start="20150722021000 +0100" stop="20150722081000 +0100">
 		<title lang="pt">Fora D´Horas</title>
 		<desc lang="pt">Fora D´Horas</desc>
@@ -25663,16 +25539,16 @@
 		<desc lang="pt">Fora D´Horas</desc>
 	</programme>
 	<programme channel="SPORT TV 3 ADSL" start="20150723130000 +0100" stop="20150723143000 +0100">
-		<title lang="pt">Voleibol: Finais - World Grand Prix</title>
+		<title lang="pt">Voleibol: Brasil x China - Final World Grand Prix</title>
 		<desc lang="pt">Transmissão da final do World Grand Prix de Voleibol.</desc>
 	</programme>
 	<programme channel="SPORT TV 3 ADSL" start="20150723143000 +0100" stop="20150723160000 +0100">
-		<title lang="pt">Voleibol: Finais - World Grand Prix</title>
+		<title lang="pt">Voleibol: Itália x Rússia - Final World Grand Prix</title>
 		<desc lang="pt">Transmissão da final do World Grand Prix de Voleibol.</desc>
 	</programme>
 	<programme channel="SPORT TV 3 ADSL" start="20150723160000 +0100" stop="20150723173000 +0100">
-		<title lang="pt">Voleibol: Finais - World League</title>
-		<desc lang="pt">Transmissão da final do World League de Voleibol.</desc>
+		<title lang="pt">Voleibol: EUA x Japão - Finais World Grand Prix</title>
+		<desc lang="pt">Transmissão da final do World Grand Prix de Voleibol.</desc>
 	</programme>
 	<programme channel="SPORT TV 3 ADSL" start="20150723173000 +0100" stop="20150723193000 +0100">
 		<title lang="pt">Surf: J-Bay Open - Meias-Finais e Final</title>
@@ -25701,14 +25577,6 @@
 	<channel id="BTV 1 HD ADSL">
 		<display-name>BTV 1 HD ADSL</display-name>
 	</channel>
-	<programme channel="BTV 1 HD ADSL" start="20150721235900 +0100" stop="20150722002300 +0100">
-		<title lang="pt">Benfica 24 Horas</title>
-		<desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido.</desc>
-	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150722002300 +0100" stop="20150722015900 +0100">
-		<title lang="pt">Voleibol: Benfica x Ethnikos Alexandroupolis V.C</title>
-		<desc lang="pt">Espaço dedicado à transmissão do encontro de Voleibol.</desc>
-	</programme>
 	<programme channel="BTV 1 HD ADSL" start="20150722015900 +0100" stop="20150722030100 +0100">
 		<title lang="pt">E Pluribus Unum - Alipio Matos (Diretor Técnico Futsal SLB)</title>
 		<desc lang="pt">Semanalmente, Luis Costa Branco entrevista uma figura de destaque. Este programa conta com uma hora de duração e tem como cenário o Museu Cosme Damião.</desc>
@@ -25841,35 +25709,47 @@
 		<title lang="pt">Vitórias & Património - Ep. 181</title>
 		<desc lang="pt">Uma série documental que abarca praticamente todos os estádios da vida do clube nos últimos 100 anos e vai permitir com que as pessoas conheçam melhor a história dos 'encarnados'.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723040100 +0100" stop="20150723053000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723040100 +0100" stop="20150723052900 +0100">
 		<title lang="pt">As Lanças Apontadas</title>
 		<desc lang="pt">Programa de debate, dedicado à análise da atualidade desportiva, política, social e económica do País.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723053000 +0100" stop="20150723060000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723052900 +0100" stop="20150723060000 +0100">
 		<title lang="pt">Os Momentos</title>
 		<desc lang="pt">Apanhados, bloopers, vídeos caseiros, instantes de glória ou erro, imagens de todo o tipo de desportos fazem as delícias deste programa. Os momentos mais incríveis do desporto. mas não necessariamente os melhores. Prepare-se para muitas gargalhadas.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723060000 +0100" stop="20150723063000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723060000 +0100" stop="20150723062600 +0100">
 		<title lang="pt">Benfica 21 Horas</title>
 		<desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723063000 +0100" stop="20150723080000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723062600 +0100" stop="20150723063500 +0100">
+		<title lang="pt">Puto Miguel</title>
+		<desc lang="pt">Puto Miguel</desc>
+	</programme>
+	<programme channel="BTV 1 HD ADSL" start="20150723063500 +0100" stop="20150723072900 +0100">
 		<title lang="pt">Vitórias & Património - Ep. 180</title>
 		<desc lang="pt">Uma série documental que abarca praticamente todos os estádios da vida do clube nos últimos 100 anos e vai permitir com que as pessoas conheçam melhor a história dos 'encarnados'.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723080000 +0100" stop="20150723093000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723072900 +0100" stop="20150723073600 +0100">
+		<title lang="pt">Mural dos Fundadores</title>
+		<desc lang="pt">Mural dos Fundadores</desc>
+	</programme>
+	<programme channel="BTV 1 HD ADSL" start="20150723073600 +0100" stop="20150723080400 +0100">
+		<title lang="pt">Quiosque TV</title>
+		<desc lang="pt">Quiosque TV</desc>
+	</programme>
+	<programme channel="BTV 1 HD ADSL" start="20150723080400 +0100" stop="20150723092900 +0100">
 		<title lang="pt">Voleibol: Seniores Benfica x S.C.Espinho - Play Off</title>
 		<desc lang="pt">Espaço dedicado à transmissão do encontro de Voleibol.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723093000 +0100" stop="20150723100000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723092900 +0100" stop="20150723095900 +0100">
 		<title lang="pt">Cine BTV</title>
 		<desc lang="pt">Este programa semanal de 25 minutos, apresentado por Axel conta com a presença de uma figura pública, no espaço denominado 'Sala VIP', e ainda com o Top 5 da Benfica TV, na voz dos colaboradores do canal.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723100000 +0100" stop="20150723110000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723095900 +0100" stop="20150723110700 +0100">
 		<title lang="pt">Benfica 10 Horas</title>
 		<desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723110000 +0100" stop="20150723120000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723110700 +0100" stop="20150723120000 +0100">
 		<title lang="pt">Vitórias & Património - Ep. 181</title>
 		<desc lang="pt">Uma série documental que abarca praticamente todos os estádios da vida do clube nos últimos 100 anos e vai permitir com que as pessoas conheçam melhor a história dos 'encarnados'.</desc>
 	</programme>
@@ -25881,55 +25761,63 @@
 		<title lang="pt">Tempo Corrido</title>
 		<desc lang="pt">Comentário e opinião da atualidade benfiquista, com rubricas que exploram outros assuntos de debate sobre temas mais prementes do país e do Mundo.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723133000 +0100" stop="20150723140000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723133000 +0100" stop="20150723135900 +0100">
 		<title lang="pt">Pelas Casas Do Benfica</title>
 		<desc lang="pt">Informação sobre as casas do Benfica e delegações encarnadas espalhadas pelo País. Curiosidades, imagens e recordações das décadas anteriores. Testemunhos de sócios e simpatizantes.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723140000 +0100" stop="20150723143000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723135900 +0100" stop="20150723142800 +0100">
 		<title lang="pt">Benfica 14 Horas</title>
 		<desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723143000 +0100" stop="20150723160000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723142800 +0100" stop="20150723160500 +0100">
 		<title lang="pt">Basquetebol: Benfica x Vit. Guimarães - Final Play-Off</title>
 		<desc lang="pt">Espaço dedicado à transmissão do encontro de Basquetebol.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723160000 +0100" stop="20150723163000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723160500 +0100" stop="20150723165000 +0100">
 		<title lang="pt">Em Linha</title>
 		<desc lang="pt">Antena aberta à participação dos telespetadores no fórum do Benfica TV, comentando os temas em discussão.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723163000 +0100" stop="20150723173000 +0100">
-		<title lang="pt">E Pluribus Unum - Alipio Matos (Diretor Técnico Futsal SLB)</title>
-		<desc lang="pt">Semanalmente, Luis Costa Branco entrevista uma figura de destaque. Este programa conta com uma hora de duração e tem como cenário o Museu Cosme Damião.</desc>
+	<programme channel="BTV 1 HD ADSL" start="20150723165000 +0100" stop="20150723165700 +0100">
+		<title lang="pt">Baja BTT: Proença Oleiros - Mação</title>
+		<desc lang="pt">Baja BTT: Proença Oleiros - Mação</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723173000 +0100" stop="20150723190000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723165700 +0100" stop="20150723172800 +0100">
+		<title lang="pt">Os Momentos</title>
+		<desc lang="pt">Apanhados, bloopers, vídeos caseiros, instantes de glória ou erro, imagens de todo o tipo de desportos fazem as delícias deste programa. Os momentos mais incríveis do desporto. mas não necessariamente os melhores. Prepare-se para muitas gargalhadas.</desc>
+	</programme>
+	<programme channel="BTV 1 HD ADSL" start="20150723172800 +0100" stop="20150723190000 +0100">
 		<title lang="pt">Sport Lisboa E Modalidades</title>
 		<desc lang="pt">Veja e grave as imagens dos momentos altos das formações benfiquistas, nas diferentes modalidades e escalões: golos, classificações, provas de perícia e estatísticas. Sempre em nome dos adeptos e sócios do Sport Lisboa e Benfica, para quem o ecletismo do clube não pode ser esquecido.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723190000 +0100" stop="20150723193000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723190000 +0100" stop="20150723192800 +0100">
 		<title lang="pt">Jornal O Benfica</title>
 		<desc lang="pt">Programa focado na próxima edição do Jornal O Benfica. José Nuno Martins e os seus convidados irão debater a lista de assuntos e artigos previstos na edição do jornal.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723193000 +0100" stop="20150723203000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723192800 +0100" stop="20150723202200 +0100">
 		<title lang="pt">Off The Record</title>
 		<desc lang="pt">Tudo aquilo que sempre quis saber sobre a Benfica TV e não teve coragem de perguntar, encontra-se condensado no 'Off the Record'. Os bastidores da Benfica TV têm pela primeira vez as portas abertas ao grande público. Conheça-nos a todos melhor pela mão de Carlos Dias da Silva, em capítulos de 25 minutos por semana.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723203000 +0100" stop="20150723210000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723202200 +0100" stop="20150723205900 +0100">
 		<title lang="pt">Lisboa Lounge - Joel Rocha</title>
 		<desc lang="pt">Um programa surpreendente, onde o telespetador descobre o lado mais desconhecido de figuras do Sport Lisboa e Benfica. Jogadores, treinadores, dirigentes e adeptos, todos podem ser surpreendidos num dos mais belos espaços do Estádio da Luz, o Lisboa Lounge.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723210000 +0100" stop="20150723213000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723205900 +0100" stop="20150723212800 +0100">
 		<title lang="pt">Benfica 21 Horas</title>
 		<desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723213000 +0100" stop="20150723233000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723212800 +0100" stop="20150723230700 +0100">
 		<title lang="pt">Benfica B x SP. Braga B - Segunda Liga</title>
 		<desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Segunda Liga.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150723233000 +0100" stop="20150724000000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723230700 +0100" stop="20150723233000 +0100">
 		<title lang="pt">Pelas Casas Do Benfica</title>
 		<desc lang="pt">Informação sobre as casas do Benfica e delegações encarnadas espalhadas pelo País. Curiosidades, imagens e recordações das décadas anteriores. Testemunhos de sócios e simpatizantes.</desc>
 	</programme>
-	<programme channel="BTV 1 HD ADSL" start="20150724000000 +0100" stop="20150724003000 +0100">
+	<programme channel="BTV 1 HD ADSL" start="20150723233000 +0100" stop="20150723235900 +0100">
+		<title lang="pt">Cine BTV</title>
+		<desc lang="pt">Este programa semanal de 25 minutos, apresentado por Axel conta com a presença de uma figura pública, no espaço denominado 'Sala VIP', e ainda com o Top 5 da Benfica TV, na voz dos colaboradores do canal.</desc>
+	</programme>
+	<programme channel="BTV 1 HD ADSL" start="20150723235900 +0100" stop="20150724002400 +0100">
 		<title lang="pt">Benfica 24 Horas</title>
 		<desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido.</desc>
 	</programme>
